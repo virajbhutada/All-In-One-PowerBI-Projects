@@ -8,26 +8,29 @@ Welcome to the HR Analytics PowerBI Dashboard project! This dashboard is designe
 
 ## Dataset
 The dataset comprises the following columns:
+## Dataset Columns
+
+### Employee Information
 - EmpID
 - Age
 - AgeGroup
+- Gender
+- MaritalStatus
+
+### Job Details
 - Attrition
 - BusinessTravel
-- DailyRate
 - Department
 - DistanceFromHome
 - Education
 - EducationField
 - EmployeeCount
 - EmployeeNumber
-- EnvironmentSatisfaction
-- Gender
 - HourlyRate
 - JobInvolvement
 - JobLevel
 - JobRole
 - JobSatisfaction
-- MaritalStatus
 - MonthlyIncome
 - SalarySlab
 - MonthlyRate
@@ -47,6 +50,10 @@ The dataset comprises the following columns:
 - YearsSinceLastPromotion
 - YearsWithCurrManager
 
+### Environmental Factors
+- DailyRate
+- EnvironmentSatisfaction
+
 ## Dashboard Visualizations
 
 1. **Employee Count:** Provides a count of employees in the dataset.
@@ -60,7 +67,7 @@ The dataset comprises the following columns:
 9. **Attrition by Gender:** Provides insights into attrition patterns based on gender.
 
 ## How to Use the Dashboard
-1. Download the Power BI file: [HR-Analytics-PowerBI-Dashboard.pbix](link to your Power BI file).
+1. Download the Power BI file: https://github.com/virajbhutada/HR-Analytics-PowerBI-Dashboard/raw/main/HR%20Analytics%20Dashboard.pbix
 2. Open the Power BI file using Power BI Desktop or Power BI Service.
 3. Interact with the dashboard to explore the visualizations and gain insights into HR analytics.
 
