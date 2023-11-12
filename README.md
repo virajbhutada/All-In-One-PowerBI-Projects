@@ -1,15 +1,16 @@
 # HR-Analytics-PowerBI-Dashboard
 
-## Overview
-Welcome to the HR Analytics PowerBI Dashboard project! This dashboard is designed to provide insightful visualizations and analysis of the HR dataset. The dataset includes information about employees, their demographics, job-related details, and attrition status.
-
 ## Author
 - **Author: Viraj N Bhutada**
 
-## Dataset
-The dataset comprises the following columns:
-## Dataset Columns
+## Overview
+Welcome to the HR Analytics PowerBI Dashboard project! This dashboard is designed to provide insightful visualizations and analysis of the HR dataset. The dataset includes information about employees, their demographics, job-related details, and attrition status through interactive charts and graphs.
 
+## About Power BI
+This dashboard is powered by [Power BI](https://powerbi.microsoft.com/), a robust business analytics tool by Microsoft. Power BI enables you to visualize and share insights from your data, and this dashboard leverages its capabilities to create a user-friendly interface for exploring HR analytics.
+
+## Dataset Columns
+The dataset comprises various columns providing details about employee information, job specifics, and environmental factors. Here's a condensed view of the columns:
 ### Employee Information
 - EmpID
 - Age
