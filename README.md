@@ -1,6 +1,6 @@
 # PowerBI Dashboards
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-orange)](https://app.powerbi.com/profile/viraj.bhutada)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-orange)](https://app.powerbi.com/groups/me/lineage?experience=power-bi)
 
 Welcome to the Power BI Dashboards repository, your go-to destination for a collection of impactful and data-driven visualizations. This repository serves as a centralized hub for various Power BI dashboards, each crafted to offer unique insights and perspectives on diverse datasets.
 
@@ -16,7 +16,7 @@ Welcome to the Power BI Dashboards repository, your go-to destination for a coll
 
 Explore my Power BI profile and visualizations on Power BI Service:
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-viraj.bhutada-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/profile/viraj.bhutada)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-orange)](https://app.powerbi.com/groups/me/lineage?experience=power-bi)
 
 # Contributing, Usage, and Issue Reporting
 
