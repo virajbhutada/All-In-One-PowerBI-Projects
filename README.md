@@ -1,6 +1,7 @@
 # PowerBI Dashboards
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-orange)](https://app.powerbi.com/groups/me/lineage?experience=power-bi)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow)](https://app.powerbi.com/groups/me/lineage?experience=power-bi)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/virajbhutada/PowerBI-Dashboards/blob/main/LICENSE)
 
 Welcome to the Power BI Dashboards repository, your go-to destination for a collection of impactful and data-driven visualizations. This repository serves as a centralized hub for various Power BI dashboards, each crafted to offer unique insights and perspectives on diverse datasets.
 
