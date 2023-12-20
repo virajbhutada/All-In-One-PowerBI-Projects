@@ -16,7 +16,7 @@ Welcome to the Power BI Dashboards repository, your go-to destination for a coll
 
 Explore my Power BI profile and visualizations on Power BI Service:
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-orange)](https://app.powerbi.com/groups/me/lineage?experience=power-bi)
+[![Power BI](https://img.shields.io/badge/Power%20BI-viraj.bhutada-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/groups/me/lineage?experience=power-bi)
 
 # Contributing, Usage, and Issue Reporting
 
