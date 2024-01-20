@@ -5,6 +5,8 @@
 
 Welcome to the Power BI Dashboards repository, your go-to destination for a collection of impactful and data-driven visualizations. This repository serves as a centralized hub for various Power BI dashboards, each crafted to offer unique insights and perspectives on diverse datasets.
 
+---
+
 ## Repository Highlights:
 
 - **Dynamic Data Insights:** Dive into interactive and visually compelling data visualizations created using Power BI, providing an immersive exploration of datasets.
@@ -12,6 +14,8 @@ Welcome to the Power BI Dashboards repository, your go-to destination for a coll
 - **Diverse Topics:** Explore dashboards covering a spectrum of topics, from sales analytics and business performance to market trends and demographic analysis.
 
 - **Continuous Expansion:** This repository is a dynamic project with plans for continuous expansion. Anticipate the addition of new dashboards exploring different facets of data analytics and visualization.
+
+---
 
 ## Check Out My Work
 
@@ -23,17 +27,25 @@ Explore my Power BI profile and visualizations on Power BI Service:
 
 Thank you for considering contributing to this repository and exploring the Power BI dashboards. Your involvement is highly valued, and your contributions help enhance the overall quality of this collection.
 
+---
+
 ## Contributing
 
 - **Contributions Welcome:** We welcome your contributions to enhance existing dashboards or propose new ideas. Please refer to the [Contribution Guidelines](CONTRIBUTING.md) for seamless collaboration.
+
+---
 
 ## Usage Permissions
 
 - **Open for Exploration:** The dashboards in this repository are open for exploration and utilization. Please review the [MIT License]([LICENSE](https://github.com/virajbhutada/PowerBI-Dashboards/blob/main/LICENSE)) for details on permissions.
 
+---
+
 ## Report Issues
 
 If you encounter any issues or have suggestions, we encourage you to open an issue on the [Issue Tracker](https://github.com/virajbhutada/PowerBI_Dashboards/issues). Your feedback is invaluable and contributes to the ongoing improvement of this project.
+
+---
 
 ## License
 
@@ -43,5 +55,5 @@ I appreciate your interest in this Power BI Dashboards project and look forward 
 
 ---
 
-### Linkedin: [Viraj N.Bhutada](https://www.linkedin.com/in/virajnbhutada24/)
+## Linkedin: [Viraj N.Bhutada](https://www.linkedin.com/in/virajnbhutada24/)
 
