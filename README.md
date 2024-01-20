@@ -39,7 +39,9 @@ If you encounter any issues or have suggestions, we encourage you to open an iss
 
 By contributing to this project, you agree that your contributions will be licensed under the [MIT License](LICENSE). Your cooperation is vital in ensuring a collaborative and open environment.
 
+I appreciate your interest in this Power BI Dashboards project and look forward to creating impactful visualizations together!
+
 ---
 
-I appreciate your interest in this Power BI Dashboards project and look forward to creating impactful visualizations together!
+### Linkedin: [Viraj N.Bhutada](https://www.linkedin.com/in/virajnbhutada24/)
 
