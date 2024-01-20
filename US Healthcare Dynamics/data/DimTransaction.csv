@@ -1,0 +1,956 @@
+dimTransactionPK,TransactionType,Transaction,AdjustmentReason
+45842,Charge,"ppps, initial visit",Charge
+45873,Charge,pr diagnostic mammography computer-aided detcj bi,Charge
+45874,Charge,Eardrum Opening,Charge
+45888,Charge,e&m estb detailed/mod,Charge
+45889,Charge,x-ray ankle 3+ vw,Charge
+45945,Charge,"repair ing hernia,5+y/o,reducibl",Charge
+45950,Adjustment,contractual/differential w/o,Contractual
+45979,Charge,ct scan of abdomen contrast,Charge
+45986,Charge,"mr angio, neck, combo",Charge
+45999,Charge,hosp discharge day mgmt 30 or <,Charge
+46003,Charge,ultrasound elastography parenchyma,Charge
+46008,Charge,"urinalysis, nonauto, w/scope",Charge
+46025,Charge,ilr evaluation (remote) up to 30 days,Charge
+46030,Charge,hemoglobin,Charge
+46032,Adjustment,Inpatient Adjustment,Operational Writeoff
+46048,Charge,"x-ray exam, breast specimen",Charge
+46056,Charge,pr thoracentesis needle/cath pleura w/imaging,Charge
+46060,Charge,slo or oct imaging of glaucoma,Charge
+46071,Adjustment,non-billable pb insurance w/o,Operational Writeoff
+46121,Payment,care payment,Payment
+46145,Charge,Arterial Procedure,Charge
+46149,Charge,initial hosp care  moderate complex,Charge
+46169,Charge,collection capillary blood specimen,Charge
+46171,Charge,pr place needle in vein,Charge
+46183,Charge,observation care discharge day managmt,Charge
+46186,Charge,"pr cardiac stress tst,interp/rept only",Charge
+46203,Charge,dual chamb icd eval/programm,Charge
+46222,Charge,"us, abdomen limited",Charge
+46230,Charge,"e&m, established, comprehensive, 40 or <",Charge
+46259,Charge,x-ray exam hip uni 1 view,Charge
+46273,Charge,brief emotional/behavioral assessment,Charge
+46290,Charge,x-ray pelvis 1/2 vw,Charge
+46320,Charge,"Procedure, Exam or Treatment",Charge
+46326,Charge,pr rem interrog scrms <30 d phys/qhp,Charge
+46334,Charge,"Procedure, Exam or Treatment",Charge
+46358,Charge,pr var vaccine live for subcutaneous use,Charge
+46396,Charge,x-ray shoulder 2+ vw,Charge
+46412,Charge,"upper gi endoscopy,biopsy",Charge
+46458,Charge,"Procedure, Exam or Treatment",Charge
+46465,Charge,interpretation ecg stat,Charge
+46503,Charge,pr cont gluc monitoring patient provided equiptment,Charge
+46516,Charge,Exam,Charge
+46519,Charge,"cabg, artery-vein, single",Charge
+46557,Charge,pr radex spine lumbscrl compl w/bending views min 6,Charge
+46558,Charge,x-ray clavicle,Charge
+46573,Charge,"pr immuniz,admin,each addl",Charge
+46604,Charge,"e&m, new, comprehensive high",Charge
+46622,Charge,"ct scan,lower extremity,w/o contrast",Charge
+46636,Charge,Vaccine,Charge
+46637,Charge,pr insert tunneled cv cath with port,Charge
+46641,Charge,ekg 24hr w/superimpo md rev/interp ped,Charge
+46650,Charge,"Procedure, Exam or Treatment",Charge
+46653,Adjustment,physician not enrolled w/o,Credentialing
+46654,Charge,electrocard rout ecg w/12 ld w/interp,Charge
+46656,Charge,"Procedure, Exam or Treatment",Charge
+46678,Charge,"pr electrocardiogram, complete",Charge
+46690,Charge,singl chamb icd eval/programm,Charge
+46697,Charge,"Procedure, Exam or Treatment",Charge
+46700,Charge,x-ray sacroiliac jts 3+ vw,Charge
+46715,Charge,"Procedure, Exam or Treatment",Charge
+46717,Charge,mod sed other phys ea add 15 min,Charge
+46724,Charge,"Procedure, Exam or Treatment",Charge
+46737,Charge,"Procedure, Exam or Treatment",Charge
+46742,Charge,cat scan of chest contrast,Charge
+46746,Charge,"Procedure, Exam or Treatment",Charge
+46757,Charge,subsequent intensive care infant 1500-2500,Charge
+46763,Payment,ucb bad debt payment (account),Payment
+46771,Charge,"mri, joint upper extrem",Charge
+46806,Charge,"pr osteopathic manip,7-8 body regn",Charge
+46808,Charge,Vaccine,Charge
+46813,Charge,blood smear peripheral interp by phys,Charge
+46833,Charge,pr office outpatient new 60 minutes,Charge
+46855,Charge,observation care level ii,Charge
+46867,Charge,"Procedure, Exam or Treatment",Charge
+46886,Charge,immunofixation serum,Charge
+46932,Charge,x-ray exam hip uni 2-3 views,Charge
+46967,Charge,"mri, abdomen, combo",Charge
+46978,Charge,"pr colposc,cervix w/adj vag,w/bx & curretag",Charge
+46998,Charge,ob ultrasound transvaginal,Charge
+47011,Charge,"ct scan,maxillofacial area,w/o contrast",Charge
+47012,Adjustment,prompt pay discount  (account) w/o,Charity Care
+47028,Charge,"Procedure, Exam or Treatment",Charge
+47032,Charge,pr home visit est pt low-mod severity 25 minutes,Charge
+47036,Charge,treatmt plng/setting ports/complex,Charge
+47044,Charge,"pr preventive visit,est, infant < 1 yr",Charge
+47057,Charge,"Procedure, Exam or Treatment",Charge
+47081,Charge,radiologic exam abdomen 2 views,Charge
+47102,Charge,"Procedure, Exam or Treatment",Charge
+47112,Charge,"Procedure, Exam or Treatment",Charge
+47119,Charge,place fiducial markers prostate,Charge
+47124,Charge,"color flow doppler, phys interpretn",Charge
+47126,Charge,fluzone. high-dose,Charge
+47128,Charge,ini hosp/day norm nb adm&dc,Charge
+47137,Charge,extracaps cataract rem insert intraoc,Charge
+47143,Charge,ini ip neonat cc<= 28 days old,Charge
+47158,Charge,stress test,Charge
+47170,Charge,"pr immuniz admin,1 single/comb vac/toxoid",Charge
+47200,Charge,pr eval of bronchospasm,Charge
+47228,Charge,pr iiv4 vacc presrv free 0.5 ml dos for im use,Charge
+47235,Charge,sub ped cc day <=28 days,Charge
+47259,Charge,pet imaging ct attenuation skull base mid-thigh,Charge
+47263,Charge,dtap-ipv dipth tetanus toxoids,Charge
+47277,Charge,"Procedure, Exam or Treatment",Charge
+47287,Charge,pr ldct for lung ca screen,Charge
+47304,Charge,"pr spinal puncture,lumbar,diagnostic",Charge
+47306,Charge,"Procedure, Exam or Treatment",Charge
+47314,Charge,"pr hospital discharge day,>30 min",Charge
+47329,Charge,"Procedure, Exam or Treatment",Charge
+47350,Charge,"Procedure, Exam or Treatment",Charge
+47355,Charge,"pr echo heart xthoracic,limited",Charge
+47376,Charge,x-ray lumbar spine 2/3 vw,Charge
+47377,Charge,"Procedure, Exam or Treatment",Charge
+47395,Charge,body mass index documented,Charge
+47404,Charge,e&m estb detailed/mod,Charge
+47418,Charge,"ob doppler echo fetal wave repeat, complete",Charge
+47426,Charge,"e&m, new, detailed",Charge
+47431,Charge,ultrasound breast complete,Charge
+47435,Charge,insert tunn cv cath w/port 5 yrs & >,Charge
+47437,Charge,"pr duplex extrem venous,uni or ltd",Charge
+47441,Charge,"Procedure, Exam or Treatment",Charge
+47451,Charge,"pr medical services 10pm-8am, 24 hr fac",Charge
+47479,Charge,"heart flow reserv measure,addn vessl",Charge
+47494,Charge,"color flow doppler, phys interpretn",Charge
+47497,Charge,radex spine cervical 6 or more views,Charge
+47504,Charge,"Procedure, Exam or Treatment",Charge
+47508,Charge,"ct scan,head/brain,w/o contrast matl",Charge
+47516,Charge,"pr visual screening test, bilat",Charge
+47520,Charge,cardiac doppler,Charge
+47523,Charge,pr office outpatient visit 15 minutes,Charge
+47524,Charge,pr cath/inject hysterosalpingogram,Charge
+47540,Charge,ob ultrasound limited scan,Charge
+47541,Charge,"pr circumcision,clamp,newborn",Charge
+47545,Charge,complete cbc & auto diff wbc,Charge
+47556,Payment,payment patient (cbo),Payment
+47579,Charge,pr initial hospital care/day 70 minutes,Charge
+47595,Charge,radex spine cervical 4 or 5 views,Charge
+47597,Charge,meningitis b vaccine (bexsero),Charge
+47601,Charge,"Procedure, Exam or Treatment",Charge
+47606,Charge,pr abdom paracentesis dx/ther w imaging guidance,Charge
+47634,Charge,insert cvad age 5yrs & >,Charge
+47650,Charge,pr resuperf wnd body <2.5cm,Charge
+47659,Charge,ct abd & pelvis w/contrast,Charge
+47672,Charge,pr insertion picc w/rs&i 5 yr/>,Charge
+47742,Charge,"mri, lumbar spine combo",Charge
+47752,Charge,hep a vaccine peds/adolescent 2dose im,Charge
+47757,Charge,"lap,inguinal hernia repr,initial",Charge
+47782,Charge,dual lead icd interr (remote),Charge
+47798,Charge,pr hospice care supervision,Charge
+47806,Charge,pr biopsy lung/mediastinum percutaneous needle,Charge
+47807,Charge,"Procedure, Exam or Treatment",Charge
+47814,Charge,emerg evaluation & mgmt serv level ii,Charge
+47820,Charge,pr thiamine hcl 100 mg,Charge
+47827,Charge,Vaccine,Charge
+47831,Charge,pr adaptive behavior tx by protocol tech ea 15 min,Charge
+47852,Charge,mri brain,Charge
+47886,Charge,"Procedure, Exam or Treatment",Charge
+47907,Charge,"allergy skin tests,allergens",Charge
+47910,Charge,special tx procedure,Charge
+47943,Charge,"Procedure, Exam or Treatment",Charge
+47948,Charge,x-ray hysterosalpingogram,Charge
+47962,Charge,cytopath (fna) 1-9 slides,Charge
+47969,Charge,gross & micro level iii,Charge
+47980,Charge,att del & init stab of nb,Charge
+47985,Charge,"pr cardioversion, elective;extern",Charge
+48009,Charge,"echography,transvaginal",Charge
+48014,Charge,"Procedure, Exam or Treatment",Charge
+48030,Charge,"Procedure, Exam or Treatment",Charge
+48036,Adjustment,small db balance (insurance) (manual) w/o,Operational Writeoff
+48050,Charge,"Procedure, Exam or Treatment",Charge
+48061,Charge,"pr ctrl nosebleed,anter,complex",Charge
+48067,Charge,"Procedure, Exam or Treatment",Charge
+48095,Charge,fluoro guide for cvad place (pro),Charge
+48096,Charge,"prolonged physician svs, ip set,1st hr",Charge
+48100,Adjustment,Duplicate Charge,Operational Writeoff
+48104,Charge,pr emergency department visit moderate severity,Charge
+48110,Charge,pr dtap-ipv/hib vaccine for intramuscular use,Charge
+48132,Charge,ob ultrasound >= 14 weeks,Charge
+48135,Charge,"Procedure, Exam or Treatment",Charge
+48136,Charge,pr resup npterf wnd body 2.6-7.5 cm,Charge
+48148,Charge,"Procedure, Exam or Treatment",Charge
+48161,Charge,"Procedure, Exam or Treatment",Charge
+48171,Charge,"echo,pelvic (nonobstetric)",Charge
+48173,Charge,ekg,Charge
+48187,Charge,needle emg ea extremty w/paraspinl area complete,Charge
+48204,Charge,pr sbsq observation care/day 25 minutes,Charge
+48205,Charge,myocardial spect multiple studies,Charge
+48215,Charge,pr image-guided catheter fluid collection drainage,Charge
+48216,Charge,critical care e&m ea addl 30,Charge
+48227,Charge,"Procedure, Exam or Treatment",Charge
+48238,Charge,sub obs 2of 3 comp - high,Charge
+48249,Charge,"Procedure, Exam or Treatment",Charge
+48250,Charge,"Procedure, Exam or Treatment",Charge
+48253,Charge,"Procedure, Exam or Treatment",Charge
+48259,Charge,"Procedure, Exam or Treatment",Charge
+48263,Charge,"Procedure, Exam or Treatment",Charge
+48288,Adjustment,capitation,Contractual
+48297,Charge,flow cyto interp 9-15 markers,Charge
+48321,Charge,"mri, cerv spine",Charge
+48343,Charge,"pr critical care, e/m 30-74 minutes",Charge
+48349,Charge,ct abd & pelvis w/o contrast,Charge
+48359,Charge,"meningococcal recomb lipo vac, serogrp b, 3 dose,intramusc use",Charge
+48376,Charge,"Procedure, Exam or Treatment",Charge
+48390,Charge,fluoro guide for cvad place,Charge
+48429,Adjustment,Deceased Patient - no payment,Bad Debt
+48445,Charge,"Procedure, Exam or Treatment",Charge
+48453,Charge,pr psychological tst eval svc phys/qhp ea addl hour,Charge
+48463,Charge,"Procedure, Exam or Treatment",Charge
+48493,Charge,initial hosp care  high complexity,Charge
+48502,Charge,Arterial Procedure,Charge
+48523,Charge,Screening,Charge
+48525,Charge,"Procedure, Exam or Treatment",Charge
+48561,Charge,"Procedure, Exam or Treatment",Charge
+48570,Charge,"Procedure, Exam or Treatment",Charge
+48575,Charge,"simulator field setting, sim",Charge
+48597,Charge,x-ray knee bilat standing,Charge
+48600,Charge,"Procedure, Exam or Treatment",Charge
+48621,Charge,advance care plan 1st 30 min face to face,Charge
+48622,Charge,"hepatitis a vaccine, adult dose, im",Charge
+48638,Charge,tte 2d w color flow dopp,Charge
+48643,Charge,sales tax,Charge
+48647,Charge,"Procedure, Exam or Treatment",Charge
+48679,Charge,"cabg, artery-vein, two",Charge
+48715,Charge,"pr hospital discharge day,<30 min",Charge
+48723,Charge,"pr pure tone hearing test, air",Charge
+48734,Adjustment,primary paid > medicaid paid,Contractual
+48736,Charge,zio patch hook up & record,Charge
+48775,Charge,most recent sbp < 130 mm hg,Charge
+48796,Charge,fluoro guide plc bx asp inj loc,Charge
+48817,Charge,"Procedure, Exam or Treatment",Charge
+48824,Charge,x-ray wrist 3+ vw,Charge
+48858,Charge,retrograde pylogram,Charge
+48871,Charge,ekg 12 lead,Charge
+48883,Charge,"urninalysis, non-auto, w/o microscopy",Charge
+48886,Charge,bx breast w device 1st lesion ultrasound guide,Charge
+48899,Charge,"echo heart,transesophageal,complete",Charge
+48908,Charge,transitional care manage service 7 day discharge,Charge
+48921,Charge,ace inhibitor/arb therapy rxd/currently taken,Charge
+48923,Charge,"Procedure, Exam or Treatment",Charge
+48924,Adjustment,uninsured discount w/o,Charity Care
+48929,Charge,"Procedure, Exam or Treatment",Charge
+48937,Charge,"bronchoscopy,diagnostic",Charge
+48941,Charge,flow cyto interp 16 or > markers,Charge
+48949,Charge,pr insertion drug implant device,Charge
+48953,Charge,change perc tube/cath w/cont,Charge
+48961,Charge,sub hosp care day normal nbm,Charge
+48963,Charge,discharge meds reconciled,Charge
+48964,Charge,gross & micro level vi,Charge
+48966,Charge,pos screen for clinical dep,Charge
+48973,Charge,x-ray sacrum/coccyx 2+ vw,Charge
+48974,Charge,ext ecg > 48hr to 21 day review and interpretatn,Charge
+48998,Charge,"Procedure, Exam or Treatment",Charge
+49003,Charge,pr fecal blood scrn immunoassay,Charge
+49014,Charge,pr sbsq hospital care/day 15 minutes,Charge
+49027,Charge,limited ultrasound,Charge
+49031,Charge,"colorectal screen, non-risk, colonscpy",Charge
+49035,Charge,"Procedure, Exam or Treatment",Charge
+49054,Charge,radex gi tract upper w/wo delayed images w/kub,Charge
+49057,Charge,stress echo transthoracic,Charge
+49095,Denial,denial,Denial
+49101,Charge,"ct scan, face/jaw contrast",Charge
+49107,Charge,x-ray colon contrast,Charge
+49122,Charge,"Procedure, Exam or Treatment",Charge
+49135,Charge,ct scan of leg contrast,Charge
+49160,Charge,Breast Procedure,Charge
+49165,Charge,x-ray lumbar spine 4 vw,Charge
+49171,Charge,hepatobiliary syst imaging including gallbladder,Charge
+49191,Charge,"cardio stress test phys supervison only, w/out inter & rpt",Charge
+49203,Charge,"pneumococcal conj vaccine,13 valent,im",Charge
+49214,Charge,pr removal impacted cerumen instrumentation unilat,Charge
+49242,Charge,"pr combined vaccine,mmr+varicella,sub-q",Charge
+49243,Charge,"Procedure, Exam or Treatment",Charge
+49244,Charge,streptococcus grp a det immunoassay,Charge
+49267,Charge,"Procedure, Exam or Treatment",Charge
+49269,Charge,"Procedure, Exam or Treatment",Charge
+49274,Charge,"Procedure, Exam or Treatment",Charge
+49280,Charge,cardiac magnetic resonance imaging for morphology,Charge
+49300,Charge,emerg evaluation & mgmt serv level iii,Charge
+49341,Adjustment,hedis reporting code - adj,Contractual
+49350,Charge,"Procedure, Exam or Treatment",Charge
+49361,Charge,fluoro guide needle inj spine,Charge
+49370,Charge,x-ray consultation,Charge
+49376,Charge,"Procedure, Exam or Treatment",Charge
+49407,Charge,or consultation,Charge
+49409,Charge,"Procedure, Exam or Treatment",Charge
+49415,Charge,"pr electrocardiogram, tracing",Charge
+49433,Adjustment,medicare paid > medicaid - adjustment,Contractual
+49434,Charge,perq device placemt breast loc ea les w guidnce,Charge
+49439,Charge,x-ray forearm 2 vw,Charge
+49455,Adjustment,Non billable procedure,Operational Writeoff
+49456,Charge,pr neurobehavioral status xm phys/qhp 1st hour,Charge
+49468,Charge,"pr injection,onabotulinumtoxina",Charge
+49481,Charge,"Procedure, Exam or Treatment",Charge
+49502,Charge,Breast Procedure,Charge
+49506,Charge,pr pressurized/nonpressurized inhalation treatment,Charge
+49544,Charge,"Procedure, Exam or Treatment",Charge
+49545,Charge,"intracard echo, ther/dx intervent",Charge
+49582,Charge,vaginal delivery only,Charge
+49605,Charge,glucose blood test,Charge
+49608,Charge,x-ray urethrocystogram+voiding,Charge
+49616,Charge,ext ecg review/interpretation,Charge
+49642,Charge,pr hepb vaccine adult 3 dose schedule for im use,Charge
+49643,Charge,"pr remv f.b.,eye,cornea,no slit",Charge
+49660,Charge,urinalysis nonauto w/o scope,Charge
+49669,Charge,doppler echo follow up/limited,Charge
+49713,Payment,payment provider level adj,Contractual
+49776,Charge,us lmtd joint/oth nonvasc xtr strux r-t w/img,Charge
+49779,Charge,"rotavirus vaccine, 3 doses, live, oral",Charge
+49785,Charge,"pr needle biopsy, lymph node(s)",Charge
+49789,Charge,pr ca screen;pelvic/breast exam,Charge
+49790,Charge,pr clin depres scrn no f/u doc,Charge
+49805,Charge,cardioversion external,Charge
+49807,Charge,pr dtap-hepb-ipv vaccine intramuscular,Charge
+49823,Charge,pr removal impacted cerumen irrigation/lvg  unilat,Charge
+49830,Charge,single cham ppm eval/programm,Charge
+49835,Charge,pr insert intrauterine device,Charge
+49850,Charge,"Procedure, Exam or Treatment",Charge
+49859,Charge,pr hepa vaccine adult dose for intramuscular use,Charge
+49871,Charge,us compl joint r-t w/image documentation,Charge
+49873,Charge,bone marrow smear int,Charge
+49876,Charge,x-ray exam hips bi 5/> views,Charge
+49881,Charge,"Procedure, Exam or Treatment",Charge
+49884,Charge,"Procedure, Exam or Treatment",Charge
+49902,Charge,morphometric computer multiple ea,Charge
+49911,Charge,"pr preventive visit,est,12-17",Charge
+49918,Charge,init hosp care day e/m neonate,Charge
+49929,Charge,"Procedure, Exam or Treatment",Charge
+49932,Charge,radiologic exam chest 2 views,Charge
+49944,Charge,"hib vaccine, prp-omp, 3 dose, im",Charge
+49952,Charge,"Procedure, Exam or Treatment",Charge
+49955,Charge,"antireflective coating, per lens",Charge
+49971,Charge,hepatobil syst imag inc gb w/pharma intervenj,Charge
+49979,Charge,"Procedure, Exam or Treatment",Charge
+49981,Charge,dtap-ipv dipth tetanus toxoids,Charge
+49984,Charge,pr prolng e/m svc before&/after dir pt care 1st hr,Charge
+49989,Charge,"Procedure, Exam or Treatment",Charge
+49996,Charge,x-ray spine one view,Charge
+50006,Charge,"Procedure, Exam or Treatment",Charge
+50018,Charge,pr admin pneumococcal vaccine,Charge
+50037,Charge,"us, chest,real time",Charge
+50038,Charge,"us,pregnant uterus,f/u,transabd app",Charge
+50047,Charge,"Procedure, Exam or Treatment",Charge
+50053,Charge,ultrasound breast limited,Charge
+50076,Charge,radiation tx management 5 tx,Charge
+50082,Charge,therapeutic exercises,Charge
+50084,Charge,medication list docd in medical record,Charge
+50086,Charge,eeg awake and asleep,Charge
+50118,Charge,"Procedure, Exam or Treatment",Charge
+50146,Charge,most recent hgb a1c < 7.0%,Charge
+50147,Charge,"Procedure, Exam or Treatment",Charge
+50151,Charge,"Procedure, Exam or Treatment",Charge
+50170,Charge,pr sbsq nursing facil care/day minor complj 15 min,Charge
+50176,Charge,decalcification procedure,Charge
+50187,Charge,psychiatric diagnostic evaluation,Charge
+50188,Charge,ct neck tissue contrast,Charge
+50204,Charge,"ob doppler velocimetry, mid cerebral artery",Charge
+50229,Adjustment,Non covered service,Medical Necessity
+50237,Charge,"Procedure, Exam or Treatment",Charge
+50244,Charge,"Procedure, Exam or Treatment",Charge
+50251,Charge,visual field exam uni/bil i&r extended,Charge
+50274,Charge,"ophth exam, est patient, int",Charge
+50276,Charge,imrt planning,Charge
+50285,Charge,pr care after delivery only,Charge
+50293,Charge,ct angio abd&plvis cntrst mtrl w/wo cntrst imges,Charge
+50310,Charge,"pr preventive visit,est,40-64",Charge
+50316,Charge,mod sed other phys initial 15 min  >=5,Charge
+50323,Charge,pr remove intrauterine device,Charge
+50352,Charge,x-ray knee 1 or 2 view,Charge
+50355,Charge,"Procedure, Exam or Treatment",Charge
+50365,Charge,"Procedure, Exam or Treatment",Charge
+50370,Charge,Arterial Procedure,Charge
+50379,Charge,ihc stain single;add on each,Charge
+50386,Charge,"Procedure, Exam or Treatment",Charge
+50395,Charge,"pr preventive visit,new,18-39",Charge
+50398,Charge,"pr echo heart xthoracic, stress/rest",Charge
+50400,Charge,"pr preventive visit,new,12-17",Charge
+50423,Charge,"mri, lumbar spine",Charge
+50432,Charge,"Procedure, Exam or Treatment",Charge
+50453,Charge,"Procedure, Exam or Treatment",Charge
+50459,Charge,ct guidance plcmt rad ther fields,Charge
+50485,Charge,Vaccine,Charge
+50486,Charge,pr electric stimulation therapy,Charge
+50491,Charge,pr breathing capacity test,Charge
+50510,Charge,oper tissue ablation/recon atria,Charge
+50517,Charge,"Procedure, Exam or Treatment",Charge
+50529,Charge,electrophoresis serum,Charge
+50534,Charge,current tobacco smoker,Charge
+50536,Charge,"Procedure, Exam or Treatment",Charge
+50541,Charge,"Procedure, Exam or Treatment",Charge
+50552,Charge,x-ray exam of femur 2/>,Charge
+50580,Charge,"Procedure, Exam or Treatment",Charge
+50589,Charge,bx breast w device 1st lesion stereotactic guide,Charge
+50600,Charge,pr admin influenza virus vac,Charge
+50604,Charge,pr chemical cauterization of granulation tissue,Charge
+50632,Charge,"Procedure, Exam or Treatment",Charge
+50646,Charge,"pr antepartum care only, 4-6 visits",Charge
+50652,Charge,"pr preventive visit,est,age5-11",Charge
+50685,Charge,gross exam only level i,Charge
+50690,Charge,"e&m, established, problem focused, 10 min or <",Charge
+50696,Charge,trtmt plan 3d reconstr tumor vol,Charge
+50697,Charge,"pr preventive visit,new,infant < 1 yr",Charge
+50701,Charge,subsqnt hosp care per day detailed,Charge
+50721,Charge,pr office outpatient new 30 minutes,Charge
+50756,Charge,"Procedure, Exam or Treatment",Charge
+50777,Charge,"e&m, established, detailed, 25 min or <",Charge
+50785,Charge,doppler color flow velocity mapping,Charge
+50787,Charge,"Procedure, Exam or Treatment",Charge
+50788,Charge,"Procedure, Exam or Treatment",Charge
+50804,Charge,intracard electrophys 3-dimens mapping,Charge
+50811,Charge,cytospin,Charge
+50821,Charge,pr therapeutic exercises,Charge
+50828,Charge,"urinalysis, auto, w/o scope",Charge
+50834,Charge,"injection, sq or im, ther/prop/diag",Charge
+50858,Charge,"cabg, arterial, single",Charge
+50875,Charge,"Procedure, Exam or Treatment",Charge
+50880,Charge,subsequent hosp care per day comp,Charge
+50885,Charge,telephone assess & manage 5-10,Charge
+50901,Charge,assay of lead,Charge
+50913,Charge,pr contrast inj perq rad eval gi tube,Charge
+50915,Charge,"Procedure, Exam or Treatment",Charge
+50917,Charge,collection venous blood by venipunct,Charge
+50929,Charge,"us, head/neck tissues,real time",Charge
+50938,Charge,pr needle emg guidance for chemodenervation,Charge
+50942,Charge,"ob doppler velocimentry, umbilical artery",Charge
+50943,Charge,"Procedure, Exam or Treatment",Charge
+50944,Charge,Fetus Exam,Charge
+50978,Charge,"us guide, vascular access",Charge
+51009,Charge,dxa bone density study 1+ sits axial skel,Charge
+51012,Charge,pr ultrasound therapy,Charge
+51044,Charge,cath plmt l hrt & arts w/njx & angio img s&i,Charge
+51047,Charge,gluc mntr cont rec from ntrstl,Charge
+51057,Charge,ext ecg > 48hr to 21 day rcrd w/conect intl rcrd,Charge
+51065,Charge,"Procedure, Exam or Treatment",Charge
+51068,Charge,"Procedure, Exam or Treatment",Charge
+51072,Charge,x-ray foot 2 vw,Charge
+51094,Charge,imm adm to 18 yrs each add'l,Charge
+51098,Payment,patient payment,Payment
+51103,Charge,"pneumococcal conj vaccine,13 valent,im",Charge
+51110,Charge,"Procedure, Exam or Treatment",Charge
+51120,Charge,robotic surgical system,Charge
+51132,Charge,pr diagnostic mammography computer-aided detcj uni,Charge
+51186,Charge,"Procedure, Exam or Treatment",Charge
+51201,Charge,"pr mmr virus immunization, subcut",Charge
+51210,Charge,"us, ob < 14 wks, single fetus",Charge
+51218,Charge,pr emergency dept visit high severity&threat funcj,Charge
+51259,Charge,"pr preventive visit,est,age 1-4",Charge
+51264,Charge,x-ray exam entire spi 2/3 vw,Charge
+51291,Charge,x-ray elbow 2 vw,Charge
+51299,Charge,fluorescein angioscopy with interpretation and report,Charge
+51302,Charge,"laparoscopy,surg:appendectomy",Charge
+51303,Charge,pr initial nursing facility care/day 45 minutes,Charge
+51304,Charge,fish multiplex each,Charge
+51305,Charge,pt-focused hlth risk assmt,Charge
+51318,Charge,elect anlys implt ithcl/edrl pmp w/reprg&refill,Charge
+51347,Charge,Vaccine,Charge
+51367,Charge,pr pt inelig neg scrn depres,Charge
+51373,Adjustment,Time Limit,Timely Filing
+51377,Charge,pr comprehensive hearing test,Charge
+51385,Charge,"Procedure, Exam or Treatment",Charge
+51397,Charge,"mri, pelvis, combo",Charge
+51404,Charge,"detect agent,immun,dir obs,influenza",Charge
+51410,Charge,blood bank physician diff xmatch,Charge
+51433,Charge,"Procedure, Exam or Treatment",Charge
+51442,Charge,sub obs 2of 3 key comp - mod,Charge
+51451,Charge,x-ray thoracic spine 2 vw,Charge
+51466,Charge,pr hepa vaccine 2 dose schedule ped/adolesc im use,Charge
+51473,Charge,"x-ray ribs, chest 4+ vw",Charge
+51495,Charge,"pr preventive visit,new,age 1-4",Charge
+51525,Adjustment,mdch grant,Contractual
+51530,Charge,"Procedure, Exam or Treatment",Charge
+51558,Payment,payment insurance,Payment
+51566,Charge,x-ray hand 2 vw,Charge
+51573,Charge,Exam,Charge
+51576,Charge,x-ray skull <4 vw,Charge
+51582,Charge,frenotomy-incision of ingual frenum,Charge
+51586,Charge,pr md certification hha patient,Charge
+51616,Charge,sub intensi care/day <1500g wt,Charge
+51618,Charge,"injection, regadenoson, 0.1 mg",Charge
+51621,Charge,"injection,sub q or im, ther/prop/diag",Charge
+51627,Charge,pr continuous glucose monitoring analysis i&r,Charge
+51635,Charge,radex spine cervical 2 or 3 views,Charge
+51637,Charge,cytopath eval of fna immediate,Charge
+51649,Charge,mri brain combo,Charge
+51657,Charge,pr admin hepatitis b vaccine,Charge
+51659,Charge,Screening,Charge
+51668,Charge,"Procedure, Exam or Treatment",Charge
+51690,Charge,"Procedure, Exam or Treatment",Charge
+51703,Charge,pr triamcinolone acetonide inj,Charge
+51718,Charge,pr sbsq hospital care/day 35 minutes,Charge
+51719,Charge,urine albumin semiquantitative,Charge
+51724,Charge,"Procedure, Exam or Treatment",Charge
+51754,Charge,"Procedure, Exam or Treatment",Charge
+51770,Charge,"Procedure, Exam or Treatment",Charge
+51774,Charge,"echo, trnsthracic w i&r & suprv",Charge
+51792,Charge,pr adapt bhv tx prtcl modificaj phys/qhp ea 15 min,Charge
+51816,Charge,ecg recording,Charge
+51823,Charge,"Procedure, Exam or Treatment",Charge
+51827,Charge,immunization admin  oral  ea add'l,Charge
+51833,Charge,"pr nursing fac dischrge day,more 30 min",Charge
+51837,Charge,gross & micro level ii,Charge
+51862,Charge,"Procedure, Exam or Treatment",Charge
+51863,Charge,pr riv4 vacc recombinant dna prsrv antibio free im,Charge
+51866,Adjustment,payment plan combination (credit),Contractual
+51871,Charge,"ct scan,lumbar spine,w/o contrast",Charge
+51893,Charge,"x-ray abdomen,comp acute series",Charge
+51927,Charge,"ob doppler echo fetal wave, complete",Charge
+51934,Charge,del/birth resuscitation,Charge
+51949,Charge,us guid vasc access sites,Charge
+51982,Charge,ob ultrasound <14 weeks,Charge
+52006,Charge,"immunization admin, 1 single/comb vac/toxoid",Charge
+52008,Charge,Exam,Charge
+52010,Charge,"Procedure, Exam or Treatment",Charge
+52014,Charge,drug test prsmv read direct optical obs pr date,Charge
+52018,Charge,echo transthoracic 2d limited or f/u,Charge
+52043,Charge,x-ray elbow 3+ vw,Charge
+52046,Charge,singl cham ppm interr (in pers),Charge
+52055,Charge,"Procedure, Exam or Treatment",Charge
+52064,Adjustment,chd-scholarship,Contractual
+52070,Charge,Breast Procedure,Charge
+52089,Charge,"pr colposcopy,cervix w/adj vagina, curettag",Charge
+52091,Charge,clin path consultation comprehensive,Charge
+52094,Adjustment,package price w/o,Contractual
+52095,Charge,current tobacco non-user cad cap copd pv dm,Charge
+52115,Charge,"Procedure, Exam or Treatment",Charge
+52119,Charge,immunization admin ea add'l vac/toxoid,Charge
+52124,Charge,pr non-invasive physiologic study extremity 3 levels,Charge
+52133,Charge,"Procedure, Exam or Treatment",Charge
+52148,Charge,immunofluorescent stain,Charge
+52156,Charge,"pr lap,diagnostic abdomen",Charge
+52160,Charge,"pr immunotherapy, 2+ injections",Charge
+52169,Charge,"pr duplex abd/pel vasc study,complete",Charge
+52178,Charge,"pr endovenous laser, 1st vein",Charge
+52212,Charge,dual cham ppm interr (in pers),Charge
+52227,Charge,pr md review interpret of test,Charge
+52228,Charge,"progressive lens, per lens",Charge
+52231,Charge,"bone imaging, whole body",Charge
+52259,Charge,sub ip ped crit care day 29d-24m,Charge
+52270,Charge,cesarean delivery only,Charge
+52278,Charge,us guide for vasc access sites,Charge
+52282,Charge,subsequent intensive care infant 2501-5000 grams,Charge
+52292,Charge,"mri lower extrem jt, w/o contrast",Charge
+52318,Charge,"pr inject trigger point, 1 or 2",Charge
+52321,Charge,"e&m, preventative, estab, age 40-64 yr",Charge
+52334,Charge,"simulator field setting, com",Charge
+52340,Charge,pr injection for bladder x-ray,Charge
+52344,Adjustment,primary paid>second insurance,Contractual
+52347,Charge,special stains grp i,Charge
+52357,Charge,"Procedure, Exam or Treatment",Charge
+52358,Charge,morph anal tumor immun quan or semi,Charge
+52378,Adjustment,medicare 2% sequestration payment reduction,Contractual
+52384,Charge,x-ray neck soft tissue,Charge
+52387,Charge,strep a assay w/optic,Charge
+52410,Charge,"Procedure, Exam or Treatment",Charge
+52418,Charge,ct heart no contrast quant eval coronry calcium,Charge
+52430,Charge,ct guidance needle placement,Charge
+52444,Charge,cent axis depth dose comp,Charge
+52451,Charge,dual lead icd interr (remote),Charge
+52455,Charge,x-ray ribs 2 vw unilat,Charge
+52456,Charge,most recent hemoglobin a1c level > 9.0%,Charge
+52470,Charge,observation care level iii,Charge
+52477,Charge,pr hib prp-omp vaccine 3 dose schedule im use,Charge
+52486,Charge,att del & init stab of nb,Charge
+52509,Charge,"hemodialysis, one evaluation",Charge
+52521,Charge,"Procedure, Exam or Treatment",Charge
+52525,Charge,"Procedure, Exam or Treatment",Charge
+52527,Charge,treatment devices complex,Charge
+52532,Charge,med team conf no pt/fam >=30min,Charge
+52540,Charge,"Procedure, Exam or Treatment",Charge
+52549,Charge,tilt table evaluation,Charge
+52603,Charge,iv infus init up to 1 hr,Charge
+52609,Charge,cardiovascular screening,Charge
+52627,Charge,"ct scan,upper extremity,w/o contrast",Charge
+52631,Charge,pr ercp remove foreign body/stent biliary/panc duct,Charge
+52643,Charge,pr initial observation care/day 70 minutes,Charge
+52664,Charge,Breast Procedure,Charge
+52668,Charge,tte 2d w spect dop &color flo complete,Charge
+52683,Charge,"ct scan,thorax,w/o contrast",Charge
+52691,Charge,dual cham ppm interr (remote),Charge
+52692,Charge,esophagram,Charge
+52702,Charge,perq device placemt breast loc 1st les w guidnce,Charge
+52720,Charge,progrmg eval implantable dev 1 lead pacemaker,Charge
+52766,Charge,pet imaging for ct attenuation whole body,Charge
+52784,Charge,del/birth resuscitation,Charge
+52836,Charge,pr neurobehavioral status xm phys/qhp ea addl hour,Charge
+52853,Charge,"Procedure, Exam or Treatment",Charge
+52858,Charge,"x-ray tib + fib, 2vw",Charge
+52859,Charge,treatment devices simple,Charge
+52871,Charge,glycated hemoglobin test,Charge
+52872,Charge,"us,pregnant uterus,limited, 1/> fetuses",Charge
+52874,Charge,"pr tdap vaccine >7 yo, im",Charge
+52903,Charge,protein electrophor fraction & quant,Charge
+52909,Charge,"cytopathology, cell block",Charge
+52913,Charge,"Procedure, Exam or Treatment",Charge
+52940,Charge,x-ray exam of finger(s),Charge
+52943,Charge,x-ray wrist 2 vw,Charge
+52951,Charge,"Procedure, Exam or Treatment",Charge
+52960,Charge,dual chamber ppm eval/programm,Charge
+52964,Charge,pr motor &/sens 3-4 nrv cndj preconf eltrode limb,Charge
+52970,Charge,lens sphcyl bifoc 4.00d .12-2.d per lens,Charge
+52973,Charge,"Procedure, Exam or Treatment",Charge
+52977,Charge,naturopath 1/2 hour visit,Charge
+52981,Charge,"Procedure, Exam or Treatment",Charge
+52998,Charge,most recent diastolic blood pressure 80-89 mm hg,Charge
+53002,Charge,pr refraction,Charge
+53008,Charge,"Procedure, Exam or Treatment",Charge
+53018,Charge,"Procedure, Exam or Treatment",Charge
+53052,Charge,prothrombin time,Charge
+53060,Charge,"Procedure, Exam or Treatment",Charge
+53063,Adjustment,Below Threshold,Operational Writeoff
+53064,Charge,"Procedure, Exam or Treatment",Charge
+53092,Charge,"injection, medroxyprogesterone acetate, 1 mg",Charge
+53095,Adjustment,experimental non-covered w/o,Medical Necessity
+53122,Charge,"Procedure, Exam or Treatment",Charge
+53125,Charge,breast tomosynthesis bi,Charge
+53126,Charge,"pr debridement, skin, sub-q tissue,=<20 sq cm",Charge
+53151,Charge,"Procedure, Exam or Treatment",Charge
+53161,Charge,"pr duplex scan extracranial,limited",Charge
+53163,Charge,venofer 1mg,Charge
+53166,Charge,"colonoscopy,biopsy",Charge
+53167,Charge,pr fetal non-stress test,Charge
+53174,Charge,"Procedure, Exam or Treatment",Charge
+53177,Charge,"Procedure, Exam or Treatment",Charge
+53184,Charge,"assay quantitative,blood glucose",Charge
+53193,Charge,sono guide needle biopsy,Charge
+53220,Charge,pr close rx prox/mid fing shft fx,Charge
+53248,Charge,pr observation care discharge management,Charge
+53263,Charge,bilirubin total transcutaneous,Charge
+53272,Payment,payment patient (front end),Payment
+53274,Charge,"Procedure, Exam or Treatment",Charge
+53283,Charge,"pr neuromusc reeducat,1+ areas, ea 15 min",Charge
+53288,Charge,"Procedure, Exam or Treatment",Charge
+53296,Charge,gross & micro level v,Charge
+53299,Charge,"pr colposcopy,cervix w/adj vagina",Charge
+53354,Charge,xthor echo-cong heart dis-comp,Charge
+53362,Charge,"Procedure, Exam or Treatment",Charge
+53370,Charge,hospital dischage day mgt > 30 min,Charge
+53375,Charge,"Procedure, Exam or Treatment",Charge
+53382,Charge,"Procedure, Exam or Treatment",Charge
+53394,Charge,pr arthrocentesis aspir&/inj major jt/bursa w/o us,Charge
+53398,Adjustment,insurance time limit w/o,Timely Filing
+53402,Charge,interrog dev eval pacemaker system,Charge
+53404,Invoice,invoice,Invoice
+53417,Charge,most recent diastolic blood pressure >= 90 mm hg,Charge
+53427,Charge,transitional care manage service 14 day dischrge,Charge
+53433,Charge,"Procedure, Exam or Treatment",Charge
+53437,Charge,"pr manual ther tech,1+regions,ea 15 min",Charge
+53445,Charge,"special tx, in addition",Charge
+53463,Charge,multiple allergy injections,Charge
+53464,Charge,x-ray bile/pancreas endoscopy,Charge
+53477,Charge,"x-ray ribs, chest 3+ vw",Charge
+53486,Charge,"Procedure, Exam or Treatment",Charge
+53509,Charge,ther apheresis;for plasma pheresis,Charge
+53545,Charge,"Procedure, Exam or Treatment",Charge
+53584,Charge,"Procedure, Exam or Treatment",Charge
+53595,Charge,pr family adapt bhv tx gdn phys/qhp ea 15 min,Charge
+53600,Charge,angio extremity unilat s/i,Charge
+53604,Charge,ob ulltrasound exam f/up per fetus,Charge
+53608,Charge,pr release shldr joint contracture,Charge
+53611,Charge,"Procedure, Exam or Treatment",Charge
+53646,Charge,subsqnt hosp care per day high mdm,Charge
+53650,Charge,subsequent intensive infant 2501-5000 grams,Charge
+53662,Charge,pr hzv zoster vacc recombinant adjuvanted im njx,Charge
+53665,Charge,initial hosp/birthing ctr e&m,Charge
+53667,Charge,ini hosp/day nb,Charge
+53678,Charge,pr inj radioactive tracer for id of sentinel node,Charge
+53686,Charge,etongestrel (contraceptive)implant,Charge
+53693,Charge,echo transthor 2d complete,Charge
+53713,Charge,tavr percutaneous femoral,Charge
+53726,Charge,ped ekg,Charge
+53766,Charge,x-ray knee 3 view,Charge
+53772,Charge,multiple lead icd-eval/program,Charge
+53794,Charge,x-ray foot 3+ vw,Charge
+53821,Charge,"pr collection venous blood,venipuncture",Charge
+53833,Charge,pr methylprednisolone injection up to 125 mg,Charge
+53836,Charge,"mr angio, head",Charge
+53855,Charge,"Procedure, Exam or Treatment",Charge
+53871,Charge,"Procedure, Exam or Treatment",Charge
+53919,Charge,"Procedure, Exam or Treatment",Charge
+53949,Charge,"stress test, interpretation & report",Charge
+53960,Charge,"Procedure, Exam or Treatment",Charge
+53972,Charge,treatment devices complex,Charge
+53987,Charge,"echo,scrotum & contents",Charge
+53990,Charge,repair incis hernia w mesh,Charge
+54006,Charge,pr office outpatient new 20 minutes,Charge
+54018,Charge,pr office outpatient new 45 minutes,Charge
+54059,Charge,"mri, cerv spine combo",Charge
+54070,Charge,e&m estb exp pf/low-mod,Charge
+54086,Charge,"pr meas,post-void res,us,non-imaging",Charge
+54094,Charge,"Procedure, Exam or Treatment",Charge
+54099,Charge,pr iiv3 vaccine split virus 0.5 ml dosage im use,Charge
+54100,Charge,e&m estb exp pf/low-mod,Charge
+54103,Charge,"Procedure, Exam or Treatment",Charge
+54108,Charge,mlc device(s) for imrt design,Charge
+54119,Charge,"colonoscopy,diagnostic",Charge
+54130,Charge,"ct scan,cervical spine,w/o contrast",Charge
+54138,Charge,x-ray thoracic spine+swim 3 vw,Charge
+54140,Charge,pr psychological tst eval svc phys/qhp first hour,Charge
+54149,Charge,crit care evaluation & mgmt first hour,Charge
+54157,Charge,"ct angio,head combo,incl image process",Charge
+54158,Charge,comp corneal topography,Charge
+54161,Adjustment,withholding  w/o,Contractual
+54177,Charge,x-ray hand 3+ vw,Charge
+54180,Charge,bone age studies,Charge
+54202,Charge,pr destruction benign lesions 15 or more,Charge
+54208,Charge,"repair incisional hernia,strang",Charge
+54232,Charge,pr ketorolac tromethamine inj,Charge
+54236,Charge,cp mole diag interp/report,Charge
+54249,Charge,imm adm 18 yrs any route 1st,Charge
+54258,Charge,pr psyl/nrpsycl tst phys/qhp 2+ tst 1st 30 min,Charge
+54272,Charge,prog device eval w/adj of implant,Charge
+54304,Charge,"Procedure, Exam or Treatment",Charge
+54313,Charge,"Procedure, Exam or Treatment",Charge
+54319,Charge,"Procedure, Exam or Treatment",Charge
+54332,Charge,"Procedure, Exam or Treatment",Charge
+54344,Charge,doppler echo follow up/limited,Charge
+54361,Charge,pr rv5 vaccine 3 dose schedule live for oral use,Charge
+54363,Charge,"Procedure, Exam or Treatment",Charge
+54385,Charge,pr non-invas physiologic std extremity art 1-2 level,Charge
+54396,Charge,"pr duplex large vessel(s),complete",Charge
+54403,Charge,"Procedure, Exam or Treatment",Charge
+54414,Charge,"Procedure, Exam or Treatment",Charge
+54427,Charge,"Procedure, Exam or Treatment",Charge
+54430,Charge,"Procedure, Exam or Treatment",Charge
+54434,Adjustment,Non billable procedure,Medical Necessity
+54440,Charge,"Procedure, Exam or Treatment",Charge
+54458,Charge,pr duplex lo extrem art bilat,Charge
+54462,Charge,"Procedure, Exam or Treatment",Charge
+54466,Bill,bill,Bill
+54474,Charge,"Procedure, Exam or Treatment",Charge
+54479,Charge,"heart flow reserv measure,init vessl",Charge
+54485,Charge,"Procedure, Exam or Treatment",Charge
+54498,Charge,pr puncture drainage of lesion,Charge
+54532,Charge,pr baclofen 10 mg injection,Charge
+54539,Charge,"pr destruct,vaginal lesion(s),extensive",Charge
+54550,Charge,"Procedure, Exam or Treatment",Charge
+54559,Charge,ip ped crit care-sub-per day 29d to 24m,Charge
+54575,Charge,"Procedure, Exam or Treatment",Charge
+54579,Charge,ekg 12 lead w i&r,Charge
+54582,Charge,radiologic exam abdomen 1 view,Charge
+54590,Charge,pr fine needle aspiration bx w/us gdn ea addl,Charge
+54593,Charge,"initial inpat consult, high complex",Charge
+54594,Charge,"Procedure, Exam or Treatment",Charge
+54615,Charge,"Procedure, Exam or Treatment",Charge
+54622,Charge,pr obtaining screen pap smear,Charge
+54625,Charge,most recent systolic blood pressure >= 140 mm hg,Charge
+54634,Charge,"Procedure, Exam or Treatment",Charge
+54637,Charge,"pr rhythm ecg, report",Charge
+54645,Charge,pr observation/inpatient hospital care 55 minutes,Charge
+54671,Charge,colposcopy of the vulva,Charge
+54682,Charge,"ct angio, chest, combo, incl image proc",Charge
+54691,Charge,Breast Procedure,Charge
+54716,Charge,glucose blood test,Charge
+54727,Charge,pr office outpatient visit 40 minutes,Charge
+54728,Charge,"ecg, persantine, phys supv w/o interp",Charge
+54744,Charge,psychotherapy patient &/ family 45 minutes,Charge
+54746,Charge,pr insertion subq cardiac rhythm monitor w/prgrmg,Charge
+54759,Charge,"Procedure, Exam or Treatment",Charge
+54762,Charge,x-ray sinuses 3+ vw,Charge
+54798,Charge,gross & micro level iv,Charge
+54799,Charge,"pr preventive visit,est,65 & over",Charge
+54819,Charge,cardiovascular stress test,Charge
+54825,Adjustment,cpc plus track 2 arrange adj,Contractual
+54826,Charge,sub hosp care day normal nb,Charge
+54857,Charge,x-ray pelvis 3+ vw,Charge
+54859,Charge,"Procedure, Exam or Treatment",Charge
+54879,Charge,"Procedure, Exam or Treatment",Charge
+54912,Charge,debride subq tiss ea addl 20 sq cm,Charge
+54920,Charge,"swallowing fcn,w/cine &/or video",Charge
+54947,Charge,us inft hips r-t img dynamic req phys/qhp manj,Charge
+54968,Payment,copayment patient,Payment
+54985,Charge,"Procedure, Exam or Treatment",Charge
+54998,Charge,"us, ob >/= 14 wks, sngl fetus",Charge
+55010,Charge,pr office outpatient visit 15 minutes,Charge
+55016,Charge,"Procedure, Exam or Treatment",Charge
+55024,Charge,pr noninvasv oxygen satur;single,Charge
+55042,Adjustment,Bankruptcy,Bad Debt
+55048,Charge,assess fetal monitor strips,Charge
+55050,Charge,pregnancy urine test,Charge
+55055,Charge,"mri, dorsal spine",Charge
+55058,Charge,strapping appl unna boot by physician,Charge
+55072,Charge,pr iiv4 vacc split virus 0.5 ml dos for im use,Charge
+55076,Charge,patient demand ecg-phys interp,Charge
+55085,Payment,prepayment patient,Payment
+55086,Charge,mod sed same phys/qhp initial 15 mins 5/>yrs,Charge
+55087,Charge,insert tunn cv cath w/o port 5 yrs & >,Charge
+55091,Charge,pr methylprednisolone 40 mg inj,Charge
+55096,Charge,"Procedure, Exam or Treatment",Charge
+55118,Charge,pr transcran doppler intracran art,Charge
+55120,Charge,ekg 12 lead w i&r,Charge
+55123,Charge,ecmo/ecls daily mgt ea day veno-venous,Charge
+55161,Charge,99152 moderate sedation services provided by the same physician or,Charge
+55175,Charge,pr vitamin b12 injection,Charge
+55200,Adjustment,small db balance (insurance) (automatic) w/o,Operational Writeoff
+55208,Charge,pr repair biceps long tendon,Charge
+55210,Charge,pr initial hospital care/day 30 minutes,Charge
+55234,Charge,"Procedure, Exam or Treatment",Charge
+55236,Charge,compre ep eval incl transsept,Charge
+55267,Charge,initial hosp care  low complexity,Charge
+55290,Charge,pr insertion picc w/rs&i 5 yr/>,Charge
+55299,Charge,adv care plan w/documentation,Charge
+55328,Charge,pr menacwy conjugate vaccine groups acyw-135 im use,Charge
+55369,Charge,pr post-op follow-up visit,Charge
+55378,Charge,cta hrt cornry art/bypass grfts contrst 3d post,Charge
+55379,Charge,chemodenervation one extremity 1-4 muscle,Charge
+55381,Adjustment,medical criteria not met w/o,Medical Necessity
+55399,Charge,"pr sleep study, unattended, simul record hr/o2 sat/resp flow/resp eff",Charge
+55417,Charge,pr initial preventive exam,Charge
+55427,Charge,mobile telemetry interpretation,Charge
+55473,Charge,"ppps, subseq visit",Charge
+55497,Charge,pr office outpatient visit 10 minutes,Charge
+55502,Charge,glycosylated hemoglobin test,Charge
+55531,Charge,x-ray humerus,Charge
+55573,Charge,fundus photography with interpretation and report,Charge
+55595,Charge,"endoscopy w/video-asst vein harvest,cabg",Charge
+55610,Charge,flu vac no prsv 4 val 3 yrs and older,Charge
+55611,Charge,"ercp,w/removal stone,bil/pancr ducts",Charge
+55625,Charge,bone marrow; biopsy & aspirate,Charge
+55628,Charge,echo transthor 2d complete-peds,Charge
+55631,Charge,slo or oct imagine of retina,Charge
+55655,Payment,payment behp ins noncash,Payment
+55666,Charge,"Procedure, Exam or Treatment",Charge
+55707,Charge,pr reconstr total shoulder implant,Charge
+55711,Adjustment,account settled in full (account) w/o,Bad Debt
+55720,Charge,pr electrocardiogram report,Charge
+55721,Charge,psychotherapy patient &/ family 30 minutes,Charge
+55735,Charge,"Procedure, Exam or Treatment",Charge
+55744,Charge,tte 2d w spect dop & color flow,Charge
+55747,Charge,pr resuperf wnd face <2.5 cm,Charge
+55759,Charge,pr office outpatient visit 5 minutes,Charge
+55761,Adjustment,inclusive of related procedure w/o,Contractual
+55776,Charge,"Procedure, Exam or Treatment",Charge
+55788,Charge,"echo,transrectal",Charge
+55791,Charge,"Procedure, Exam or Treatment",Charge
+55792,Charge,hpv vaccine non valent im,Charge
+55799,Charge,treatment devices complex,Charge
+55805,Charge,pr collection capillary blood specimen,Charge
+55813,Charge,hb a9500 tc99 sestamibi p/study dose,Charge
+55815,Charge,holter scan phys interp w/superimpostn,Charge
+55847,Charge,"Procedure, Exam or Treatment",Charge
+55852,Charge,urine pregnancy test,Charge
+55859,Charge,"tobacco use cessation intervention, counseling",Charge
+55871,Charge,pr office outpatient visit 25 minutes,Charge
+55889,Charge,"Procedure, Exam or Treatment",Charge
+55890,Payment,hsa payment,Payment
+55901,Charge,ob biophysical profile w/o nst,Charge
+55954,Charge,"ophth exam, new pat, int",Charge
+55959,Charge,"us,pregnant uterus,transvaginal",Charge
+55978,Charge,"blood occult,by peroxid,feces,single, colorectal screen",Charge
+55999,Charge,"Procedure, Exam or Treatment",Charge
+56001,Charge,special stains grp ii,Charge
+56006,Charge,cardiac doppler,Charge
+56020,Charge,mri breast without&with contrast w/cad bilateral,Charge
+56021,Charge,Vaccine,Charge
+56022,Charge,pr complete replacement picc rs&i,Charge
+56029,Charge,"Procedure, Exam or Treatment",Charge
+56046,Adjustment,small db balance (account) (automatic) w/o,Operational Writeoff
+56063,Charge,"pr preventive visit,est,18-39",Charge
+56070,Charge,post op follow-up visit,Charge
+56073,Payment,patient lockbox era payment,Payment
+56078,Charge,"Procedure, Exam or Treatment",Charge
+56081,Charge,"us,retroperit, b-scan/real time,complete",Charge
+56129,Charge,"Procedure, Exam or Treatment",Charge
+56132,Charge,"Procedure, Exam or Treatment",Charge
+56133,Charge,pr psycl/nrpsycl tst phys/qhp 2+ tst ea addl 30 min,Charge
+56134,Charge,"Procedure, Exam or Treatment",Charge
+56165,Charge,myocardial spect single study at rest or stress,Charge
+56192,Charge,pr emergency department visit high/urgent severity,Charge
+56210,Charge,"e&m, established, expanded, 15 min or <",Charge
+56222,Charge,"ophth exam, est patient, comp",Charge
+56224,Charge,"Procedure, Exam or Treatment",Charge
+56231,Charge,most recent sbp 130-139mm hg,Charge
+56245,Adjustment,employee discount w/o,Contractual
+56249,Charge,"Procedure, Exam or Treatment",Charge
+56251,Charge,tdap >= 7 yrs im-0.5ml,Charge
+56270,Charge,"Procedure, Exam or Treatment",Charge
+56286,Charge,dtap hib ipv for im,Charge
+56323,Charge,"ct angio,neck combo,incl image process",Charge
+56326,Charge,morpho analy tumor immuno quan or semi,Charge
+56336,Charge,ini ip neonat cc<= 28 days old,Charge
+56349,Charge,debride skin & subcu <= 20 sq cm,Charge
+56353,Charge,psychotherapy patient &/ family 60 minutes,Charge
+56363,Charge,cytopath sel cell w/inter not cerv/vag,Charge
+56366,Charge,"colonoscopy,remv lesn,snare",Charge
+56377,Charge,"us, abdom,b-scan &/or real time,complete",Charge
+56394,Charge,x-ray nasal bones,Charge
+56411,Charge,pr initial hospital care/day 50 minutes,Charge
+56412,Charge,"diagnostic digital breast tomosynthesis, unilateral or bilateral (list",Charge
+56420,Charge,"Procedure, Exam or Treatment",Charge
+56463,Charge,"pr duplex scan extracranial,bilat",Charge
+56467,Charge,pr initial nursing facility care/day 35 minutes,Charge
+56484,Charge,pr office outpatient visit 25 minutes,Charge
+56487,Charge,smoking tobacco cessation 3-10,Charge
+56501,Charge,bx breast w device addl lesion ultrasound guide,Charge
+56504,Charge,iv infusion - prop/diag initial up to 1 hr,Charge
+56531,Charge,immunoperoxidase stain,Charge
+56533,Charge,psychiatric diagnostic evaluation,Charge
+56563,Charge,"Procedure, Exam or Treatment",Charge
+56566,Charge,pr diphenhydramine hcl injectio,Charge
+56567,Charge,"pr duplex extrem venous,bilat",Charge
+56572,Charge,eeg awake & drowsy,Charge
+56574,Charge,most recent diastolic blood pressure < 80 mm hg,Charge
+56585,Charge,pr screening mammography bi 2-view breast inc cad,Charge
+56604,Charge,"Procedure, Exam or Treatment",Charge
+56623,Charge,stress test,Charge
+56647,Charge,ct abd & pelvis w/o contrst 1+ body regns,Charge
+56648,Charge,"e&m, new, expanded, pr0blem focused",Charge
+56664,Charge,"mmr vaccine, live, sc",Charge
+56669,Charge,pr insert non-tunnel cv cath,Charge
+56674,Charge,pr ppsv23 vaccine 2 yrs or older for subq/im use,Charge
+56684,Charge,"Procedure, Exam or Treatment",Charge
+56706,Charge,"Procedure, Exam or Treatment",Charge
+56708,Charge,x-ray exam entire spi 1 vw,Charge
+56718,Charge,"e&m, new, comprehensive moderate",Charge
+56731,Charge,"Procedure, Exam or Treatment",Charge
+56755,Charge,"mri, dorsal spine combo",Charge
+56776,Charge,pr sbsq hospital care/day 25 minutes,Charge
+56784,Charge,x-ray knee 4+ view,Charge
+56785,Charge,"Procedure, Exam or Treatment",Charge
+56794,Charge,"Procedure, Exam or Treatment",Charge
+56800,Charge,pr emergency department visit low/moder severity,Charge
+56807,Charge,"pr electrocardiogram, complete",Charge
+56835,Charge,pr treat vagina infection,Charge
+56836,Charge,interrogation evaluation remote </30 d,Charge
+56855,Charge,radiologic exam chest single view,Charge
+56856,Charge,pr destruction benign lesions up to 14,Charge
+56879,Charge,"pr preventive visit,new,age5-11",Charge
+56895,Charge,progrmg eval implantable dev mlt lead card/dfb,Charge
+56899,Charge,ob fetal echocardiography,Charge
+56925,Charge,tee-cardiac anomalies congenital,Charge
+56930,Charge,"Procedure, Exam or Treatment",Charge
+56933,Charge,pr fine needle aspiration bx w/us gdn 1st lesion,Charge
+56976,Charge,digital eeg-spike analysis,Charge
+56992,Charge,"pr preventive visit,new,40-64",Charge
+56997,Charge,"Procedure, Exam or Treatment",Charge
+57011,Charge,"pr immuniz admin,intranasal/oral,each addl",Charge
+57016,Charge,holter recording w/superimposition,Charge
+57151,Charge,"Procedure, Exam or Treatment",Charge
+57273,Charge,"Procedure, Exam or Treatment",Charge
+57588,Adjustment,Financial Assistance,Charity Care
+57671,Charge,"Procedure, Exam or Treatment",Charge
+57679,Charge,"Procedure, Exam or Treatment",Charge
+57687,Charge,"Procedure, Exam or Treatment",Charge
+57693,Charge,"Procedure, Exam or Treatment",Charge
+57725,Charge,"Procedure, Exam or Treatment",Charge
+57736,Charge,"Procedure, Exam or Treatment",Charge
+57830,Adjustment,Financial Assistance,Charity Care
+57869,Charge,"Procedure, Exam or Treatment",Charge
+57884,Charge,Screening,Charge
+57907,Charge,"Procedure, Exam or Treatment",Charge
+57911,Charge,"Procedure, Exam or Treatment",Charge
+57932,Charge,"Procedure, Exam or Treatment",Charge
+57933,Charge,"Procedure, Exam or Treatment",Charge
+57949,Charge,"Procedure, Exam or Treatment",Charge
+57997,Charge,"Procedure, Exam or Treatment",Charge
+58086,Adjustment,Non billable procedure,Operational Writeoff
+58168,Charge,"Procedure, Exam or Treatment",Charge

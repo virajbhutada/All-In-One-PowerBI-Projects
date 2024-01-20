@@ -1,0 +1,64 @@
+Table,Column,Definition
+FactTable (Primary Key),FactTablePK,Unique identifier (Primary Key) for the fact table. 
+FactTable (Foreign Key) and dimPatient (Primary Key),dimPatientPK,Unique identifier that joins the patient table to the fact table
+FactTable (Foreign Key) and dimPhysician (Primary Key),dimPhysicianPK,Unique identifier that joins the physician table to the fact table
+FactTable (Foreign Key) and dimDate,dimDatePostPK,Text formatted date that specifies the day the transaction was posted to the billing system
+FactTable (Foreign Key),dimDateServicePK,Text formatted date that specifies the day the patient was seen by the physician
+FactTable (Foreign Key) and dimCptCode,dimCPTCodePK,Unique identifier that joins the CPT table to the fact table
+FactTable (Foreign Key) and dimPayer,dimPayerPK,Unique identifier that joins the payer table to the fact table
+FactTable (Foreign Key) and dimTransaction,dimTransactionPK,Unique identifier that joins the transaction table to the fact table
+FactTable (Foreign Key) and dimLocation,dimLocationPK,Unique identifier that joins the location table to the fact table
+FactTable and dimPatient,PatientNumber,Unique Patient identifier. This is often times called a Medical Record Number (MRN)
+FactTable and dimDiagnosisCodePK,dimDiagnosisCodePK,Unique identifier that joins the patient table to the fact table
+FactTable,CPTUnits,The number of times the CPT Code has been performed. 
+FactTable,GrossCharge,The gross charge for the CPT Code. This includes the contractual adjustment
+FactTable,Payment,Payment received from payer and patient
+FactTable,Adjustment,Any dollars from the gross charge that will not be collected
+FactTable,AR,Outstanding accounts receivable that have yet to be collected or written off. 
+FactTable and dimPatient,PatientNumber,Unique Patient identifier. This is often times called a Medical Record Number (MRN)
+dimPatient,FirstName,First Name of the patient
+dimPatient,LastName,Last Name of the patient
+dimPatient,Email,Patients email address
+dimPatient,PatientGender,Gender/Sex of the patient
+dimPatient,PatientAge,Age of the Patient
+dimPatient,PatientHeight(in cms),Height of Patient in centimeters
+dimPatient,Year of Birth,Year of Birth of Patient
+dimPatient,Month,Month of Birth of Patient
+dimPatient,Day,Day of Birth of Patient
+dimPatient,BloodGroup,BloodGroup of the Patient
+dimPatient,Tobacco,Patient consumes Tobacco or not as per the medical records
+dimPatient,Alcohol,Patient consumes Alcohol or not as per the medical records
+dimPatient,Exercise,Patient does regular exercise or not by records
+dimPatient,Diet,Patient follows strict diet or not as per medical records
+dimPatient,Ethinicity,Ethinicity of the Patient as per medical records
+dimPatient,Zip Codes,Zip Codes of the place of resident as per medical records
+dimPatient,State Code,State Code that the patient lives in
+dimPatient,City,City that the patient lives in
+dimPatient,State,State that the patient lives in
+dimPatient,Region,Region ofPatient's residence
+dimSpeciality,SpecialityCode,Two-digit specialty code that corresponds to the specialty type declared by the Provider at the time of enrollment in the form.
+dimSpeciality,ProviderSpecialty,Provide's Speciality 
+dimSpeciality,SpecialityType,Type of Provide's Speciality 
+dimSpeciality,SpecialityDesc,Description of the speciality
+dimTransaction,TransactionType,"Clarifies whether the transaction was a charge, payment, adjustment, etc. "
+dimTransaction,Transaction,Specific transaction descriptions
+dimTransaction,AdjustmentReason,Groups adjustments into operational reason groups
+dimPhysician,ProviderNpi,Unique number assigned to each physician upon completion of medical school
+dimPhysician,ProviderName,Physicians last name
+dimPhysician,ProviderSpecialty,Area which the physician has specialized
+dimPhysician,ProviderFTE,Physician time spent working on a weekly basis
+dimPayer,PayerName,Payer category
+dimLocation,LocationName,Field that specifics where the service was rendered
+dimDiagnosisCode,DiagnosisCode,Code assigned by the physician to specific the patients diagnosis
+dimDiagnosisCode,DiagnosisCodeDescription,Description to clarify the diagnosis code
+dimDiagnosisCode,DiagnosisCodeGroup,Group of Diagnosis Codes
+dimCptCode,CptCode,Five digit Current Procedural Terminology used to assign services rendered to the patient
+dimCptCode,CptDesc,Specific CPT description
+dimCptCode,CptGrouping,Groups the CPT codes into types of services
+dimDate,Date,Date format - either date service was rendered or date of a transaction
+dimDate,Year,Year - either date service was rendered or date of a transaction
+dimDate,Month,Month - either date service was rendered or date of a transaction
+dimDate,MonthPeriod,YYYYMM Text Format - either date service was rendered or date of a transaction
+dimDate,MonthYear,Month and Year - either date service was rendered or date of a transaction
+dimDate,Day,Day of Month Number - either date service was rendered or date of a transaction
+dimDate,DayName,Day of week name - either date service was rendered or date of a transaction

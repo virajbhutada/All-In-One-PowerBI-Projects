@@ -1,0 +1,1257 @@
+dimCPTCodePK,CptCode,CptDesc,CptGrouping
+579387,93284,Prgrmg eval implantable dfb,Medicine
+579408,67917,Repair eyelid defect,Surgery
+579429,73720,Mri lwr extremity w/o&w/dye,Radiology
+579450,90647,Hib prp-omp vacc 3 dose im,Medicine
+579471,73110,X-ray exam of wrist,Radiology
+579492,76937,Us guide vascular access,Radiology
+579513,74420,Contrst x-ray urinary tract,Radiology
+579555,90791,Psych diagnostic evaluation,Misc
+579576,4110F,Int mam art used for cabg,CPT Cat II Codes
+579597,97035,Ultrasound therapy,Medicine
+579618,77470,Special radiation treatment,Radiology
+579639,76705,Echo exam of abdomen,Radiology
+579660,90715,Tdap vaccine 7 yrs/> im,Medicine
+579681,95976,Alys smpl cn npgt prgrmg,Medicine
+579702,90837,Psytx w pt 60 minutes,Medicine
+579723,11104,Punch bx skin single lesion,Surgery
+579744,30903,Control of nosebleed,Surgery
+579765,99284,Emergency dept visit,Hospital
+579786,73502,X-ray exam hip uni 2-3 views,Radiology
+579807,99465,Nb resuscitation,Hospital
+579828,99306,Nursing facility care init,Nursing/Rest/Home
+579849,73721,Mri jnt of lwr extre w/o dye,Radiology
+579870,84165,Protein e-phoresis serum,PathLab
+579891,76805,Ob us >/= 14 wks sngl fetus,Radiology
+579912,3075F,Syst bp ge 130 - 139mm hg,CPT Cat II Codes
+579933,99214,Office/outpatient visit est,Office
+579954,90686,Iiv4 vacc no prsv 0.5 ml im,Medicine
+579975,99223,Initial hospital care,Hospital
+579996,93005,Electrocardiogram tracing,Medicine
+580017,70250,X-ray exam of skull,Radiology
+580038,73560,X-ray exam of knee 1 or 2,Radiology
+580059,99214,Office/outpatient visit est,Office
+580080,32405,Percut bx lung/mediastinum,Surgery
+580101,93880,Extracranial bilat study,Medicine
+580122,99232,Subsequent hospital care,Hospital
+580143,99225,Subsequent observation care,Misc
+580164,90680,Rv5 vacc 3 dose live oral,Medicine
+580185,99232,Subsequent hospital care,Hospital
+580206,99222,Initial hospital care,Hospital
+580227,96121,Nubhvl xm phy/qhp ea addl hr,Medicine
+580248,88108,Cytopath concentrate tech,PathLab
+580269,86077,Phys blood bank serv xmatch,PathLab
+580290,83036,Glycosylated hemoglobin test,PathLab
+580311,24400,Revision of humerus,Surgery
+580332,93282,Prgrmg eval implantable dfb,Medicine
+580353,49465,Fluoro exam of g/colon tube,Surgery
+580374,88313,Special stains group 2,PathLab
+580395,90461,Im admin each addl component,Misc
+580416,99285,Emergency dept visit,Hospital
+580437,70486,Ct maxillofacial w/o dye,Radiology
+580458,96372,Ther/proph/diag inj sc/im,Medicine
+580479,97110,Therapeutic exercises,Medicine
+580500,76827,Echo exam of fetal heart,Radiology
+580521,92025,Corneal topography,Medicine
+580542,38571,Laparoscopy lymphadenectomy,Surgery
+580563,99283,Emergency dept visit,Hospital
+580584,93000,Electrocardiogram complete,Medicine
+580605,93320,Doppler echo exam heart,Medicine
+580647,93010,Electrocardiogram report,Medicine
+580668,92015,Determine refractive state,Medicine
+580689,99205,Office/outpatient visit new,Office
+580710,82043,Ur albumin quantitative,PathLab
+580731,73030,X-ray exam of shoulder,Radiology
+580752,99348,Home visit est patient,Nursing/Rest/Home
+580794,61800,Apply srs headframe add-on,Surgery
+580815,72146,Mri chest spine w/o dye,Radiology
+580836,76819,Fetal biophys profil w/o nst,Radiology
+580857,99213,Office/outpatient visit est,Office
+580878,83655,Assay of lead,PathLab
+580899,Q4010,Cast sup sht arm adult fbrgl,HCPCS Level II Codes
+580920,99495,Trans care mgmt 14 day disch,Office
+580941,72190,X-ray exam of pelvis,Radiology
+580962,93971,Extremity study,Medicine
+580983,88366,Insitu hybridization (fish),PathLab
+581004,97140,Manual therapy 1/> regions,Medicine
+581025,19318,Reduction of large breast,Surgery
+581046,96137,Psycl/nrpsyc tst phy/qhp ea,Misc
+581067,36584,Compl rplcmt picc rs&i,Surgery
+581088,11302,Shave skin lesion 1.1-2.0 cm,Surgery
+581109,33534,Cabg arterial two,Surgery
+581130,99024,Postop follow-up visit,Medicine
+581151,99211,Office/outpatient visit est,Office
+581172,99222,Initial hospital care,Hospital
+581193,70540,Mri orbit/face/neck w/o dye,Radiology
+581214,62270,Spinal fluid tap diagnostic,Surgery
+581235,72141,Mri neck spine w/o dye,Radiology
+581256,86334,Immunofix e-phoresis serum,PathLab
+581277,76856,Us exam pelvic complete,Radiology
+581298,G0008,Admin influenza virus vac,HCPCS Level II Codes
+581319,90837,Psytx w pt 60 minutes,Medicine
+581340,72156,Mri neck spine w/o & w/dye,Radiology
+581361,93653,Ep & ablate supravent arrhyt,Medicine
+581382,93660,Tilt table evaluation,Medicine
+581403,95816,Eeg awake and drowsy,Medicine
+581424,99232,Subsequent hospital care,Hospital
+581445,88300,Surgical path gross,PathLab
+581466,90474,Immune admin oral/nasal addl,Medicine
+581487,99204,Office/outpatient visit new,Office
+581508,82948,Reagent strip/blood glucose,PathLab
+581529,70546,Mr angiograph head w/o&w/dye,Radiology
+581550,3046F,Hemoglobin a1c level >9.0%,CPT Cat II Codes
+581571,93270,Remote 30 day ecg rev/report,Medicine
+581592,J3411,Thiamine hcl 100 mg,HCPCS Level II Codes
+581613,93288,Interrog evl pm/ldls pm ip,Medicine
+581634,87880,Strep a assay w/optic,PathLab
+581655,33533,Cabg arterial single,Surgery
+581676,97156,Fam adapt bhv tx gdn phy/qhp,Medicine
+581697,95813,Eeg over 1 hour,Medicine
+581718,78708,K flow/funct image w/drug,Radiology
+581739,33948,Ecmo/ecls daily mgmt-venous,Surgery
+581760,70220,X-ray exam of sinuses,Radiology
+581781,74019,X-ray exam abdomen 2 views,Radiology
+581802,98967,Hc pro phone call 11-20 min,Medicine
+581823,G0442,Annual alcohol screen 15 min,HCPCS Level II Codes
+581844,76817,Transvaginal us obstetric,Radiology
+581865,99204,Office/outpatient visit new,Office
+581886,62368,Analyze sp inf pump w/reprog,Surgery
+581907,99223,Initial hospital care,Hospital
+581928,99214,Office/outpatient visit est,Office
+581949,71048,X-ray exam chest 4+ views,Radiology
+581970,45385,Colonoscopy w/lesion removal,Surgery
+581991,69210,Remove impacted ear wax uni,Surgery
+582012,93923,Upr/lxtr art stdy 3+ lvls,Medicine
+582033,97110,Therapeutic exercises,Medicine
+582054,77080,Dxa bone density axial,Radiology
+582075,49650,Lap ing hernia repair init,Surgery
+582096,76815,Ob us limited fetus(s),Radiology
+582117,95957,Eeg digital analysis,Medicine
+582138,73110,X-ray exam of wrist,Radiology
+582159,92002,Eye exam new patient,Medicine
+582180,71260,Ct thorax w/dye,Radiology
+582201,37212,Thrombolytic venous therapy,Surgery
+582243,71101,X-ray exam unilat ribs/chest,Radiology
+582264,V2750,Anti-reflective coating,HCPCS Level II Codes
+582285,99205,Office/outpatient visit new,Office
+582306,36475,Endovenous rf 1st vein,Surgery
+582327,30520,Repair of nasal septum,Surgery
+582348,99205,Office/outpatient visit new,Office
+582369,G0452,Molecular pathology interpr,HCPCS Level II Codes
+582390,30465,Repair nasal stenosis,Surgery
+582411,99199,Special service/proc/report,Medicine
+582432,70491,Ct soft tissue neck w/dye,Radiology
+582453,3079F,Diast bp 80-89 mm hg,CPT Cat II Codes
+582474,59425,Antepartum care only,Surgery
+582495,73221,Mri joint upr extrem w/o dye,Radiology
+582516,99393,Prev visit est age 5-11,Office
+582537,93000,Electrocardiogram complete,Medicine
+582558,99217,Observation care discharge,Hospital
+582579,49505,Prp i/hern init reduc >5 yr,Surgery
+582600,20610,Drain/inj joint/bursa w/o us,Surgery
+582621,99478,Ic lbw inf < 1500 gm subsq,Office
+582642,33970,Aortic circulation assist,Surgery
+582663,73562,X-ray exam of knee 3,Radiology
+582684,93306,Tte w/doppler complete,Medicine
+582705,G0446,Intens behave ther cardio dx,HCPCS Level II Codes
+582726,59025,Fetal non-stress test,Surgery
+582747,73060,X-ray exam of humerus,Radiology
+582768,58661,Laparoscopy remove adnexa,Surgery
+582789,88374,M/phmtrc alys ishquant/semiq,PathLab
+582810,G0250,Md inr test revie inter mgmt,HCPCS Level II Codes
+582852,12002,Rpr s/n/ax/gen/trnk2.6-7.5cm,Surgery
+582873,92960,Cardioversion electric ext,Medicine
+582894,93288,Interrog evl pm/ldls pm ip,Medicine
+582915,19000,Drainage of breast lesion,Surgery
+582936,93000,Electrocardiogram complete,Medicine
+582957,J7620,Albuterol ipratrop non-comp,HCPCS Level II Codes
+582978,3078F,Diast bp <80 mm hg,CPT Cat II Codes
+582999,99310,Nursing fac care subseq,Nursing/Rest/Home
+583020,72197,Mri pelvis w/o & w/dye,Radiology
+583041,33405,Replacement aortic valve opn,Surgery
+583062,71275,Ct angiography chest,Radiology
+583083,59820,Care of miscarriage,Surgery
+583104,93280,Pm device progr eval dual,Medicine
+583125,23500,Treat clavicle fracture,Surgery
+583146,56820,Exam of vulva w/scope,Surgery
+583167,99223,Initial hospital care,Hospital
+583188,99212,Office/outpatient visit est,Office
+583209,74425,Contrst x-ray urinary tract,Radiology
+583230,93000,Electrocardiogram complete,Medicine
+583251,88342,Immunohisto antb 1st stain,PathLab
+583272,36415,Routine venipuncture,Surgery
+583293,93923,Upr/lxtr art stdy 3+ lvls,Medicine
+583314,98928,Osteopath manj 7-8 regions,Medicine
+583335,93297,Rem interrog dev eval icpms,Medicine
+583356,36416,Capillary blood draw,Surgery
+583377,90649,4vhpv vaccine 3 dose im,Medicine
+583398,88300,Surgical path gross,PathLab
+583419,77295,3-d radiotherapy plan,Radiology
+583440,99283,Emergency dept visit,Hospital
+583461,93922,Upr/l xtremity art 2 levels,Medicine
+583482,J0585,"Injection,onabotulinumtoxina",HCPCS Level II Codes
+583503,73140,X-ray exam of finger(s),Radiology
+583524,19082,Bx breast add lesion strtctc,Surgery
+583545,72050,X-ray exam neck spine 4/5vws,Radiology
+583566,65220,Remove foreign body from eye,Surgery
+583587,99203,Office/outpatient visit new,Office
+583608,99355,Prolong e&m/psyctx serv o/p,Office
+583629,76805,Ob us >/= 14 wks sngl fetus,Radiology
+583650,32556,Insert cath pleura w/o image,Surgery
+583692,90651,9vhpv vaccine 2/3 dose im,Medicine
+583713,99232,Subsequent hospital care,Hospital
+583734,73200,Ct upper extremity w/o dye,Radiology
+583776,99221,Initial hospital care,Hospital
+583797,99203,Office/outpatient visit new,Office
+583818,23430,Repair biceps tendon,Surgery
+583839,99212,Office/outpatient visit est,Office
+583860,43264,Ercp remove duct calculi,Surgery
+583881,97153,Adaptive behavior tx by tech,Medicine
+583902,99393,Prev visit est age 5-11,Office
+583923,99215,Office/outpatient visit est,Office
+583944,23020,Release shoulder joint,Surgery
+583965,58555,Hysteroscopy dx sep proc,Surgery
+583986,59400,Obstetrical care,Surgery
+584028,99396,Prev visit est age 40-64,Office
+584049,37221,Iliac revasc w/stent,Surgery
+584070,90791,Psych diagnostic evaluation,Misc
+584091,59025,Fetal non-stress test,Surgery
+584112,71111,X-ray exam ribs/chest4/> vws,Radiology
+584133,58571,Tlh w/t/o 250 g or less,Surgery
+584154,70160,X-ray exam of nasal bones,Radiology
+584175,70481,Ct orbit/ear/fossa w/dye,Radiology
+584196,72040,X-ray exam neck spine 2-3 vw,Radiology
+584217,99231,Subsequent hospital care,Hospital
+584238,99156,Mod sed oth phys/qhp 5/>yrs,Misc
+584259,73030,X-ray exam of shoulder,Radiology
+584301,99469,Neonate crit care subsq,Hospital
+584322,64643,Chemodenerv 1 extrem 1-4 ea,Surgery
+584343,77295,3-d radiotherapy plan,Radiology
+584364,99222,Initial hospital care,Hospital
+584385,99391,Per pm reeval est pat infant,Office
+584406,36415,Routine venipuncture,Surgery
+584427,99472,Ped critical care subsq,Hospital
+584448,75557,Cardiac mri for morph,Radiology
+584469,93272,Ecg/review interpret only,Medicine
+584490,58661,Laparoscopy remove adnexa,Surgery
+584511,77300,Radiation therapy dose plan,Radiology
+584532,99395,Prev visit est age 18-39,Office
+584553,76098,X-ray exam surgical specimen,Radiology
+584574,99202,Office/outpatient visit new,Office
+584595,88173,Cytopath eval fna report,PathLab
+584616,93010,Electrocardiogram report,Medicine
+584637,76140,X-ray consultation,Radiology
+584679,87804,Influenza assay w/optic,PathLab
+584700,19282,Perq device breast ea imag,Surgery
+584721,29580,Application of paste boot,Surgery
+584742,17110,Destruct b9 lesion 1-14,Surgery
+584763,74177,Ct abd & pelv w/contrast,Radiology
+584784,76856,Us exam pelvic complete,Radiology
+584805,88305,Tissue exam by pathologist,PathLab
+584826,J8499,Oral prescrip drug non chemo,HCPCS Level II Codes
+584847,99214,Office/outpatient visit est,Office
+584868,G0121,Colon ca scrn not hi rsk ind,HCPCS Level II Codes
+584889,76820,Umbilical artery echo,Radiology
+584910,77300,Radiation therapy dose plan,Radiology
+584931,99396,Prev visit est age 40-64,Office
+584952,93284,Prgrmg eval implantable dfb,Medicine
+584973,73552,X-ray exam of femur 2/>,Radiology
+584994,93042,Rhythm ecg report,Medicine
+585015,90716,Var vaccine live subq,Medicine
+585036,49560,Rpr ventral hern init reduc,Surgery
+585057,73030,X-ray exam of shoulder,Radiology
+585078,G0009,Admin pneumococcal vaccine,HCPCS Level II Codes
+585099,70487,Ct maxillofacial w/dye,Radiology
+585120,93303,Echo transthoracic,Medicine
+585141,93320,Doppler echo exam heart,Medicine
+585162,31622,Dx bronchoscope/wash,Surgery
+585183,99203,Office/outpatient visit new,Office
+585225,19000,Drainage of breast lesion,Surgery
+585246,74160,Ct abdomen w/dye,Radiology
+585267,J7296,"Kyleena, 19.5 mg",HCPCS Level II Codes
+585288,72157,Mri chest spine w/o & w/dye,Radiology
+585309,77080,Dxa bone density axial,Radiology
+585330,93284,Prgrmg eval implantable dfb,Medicine
+585351,76881,Us compl joint r-t w/img,Radiology
+585372,38222,Dx bone marrow bx & aspir,Surgery
+585393,77012,Ct scan for needle biopsy,Radiology
+585414,0296T,Ext ecg recording,Misc
+585435,33518,Cabg artery-vein two,Surgery
+585456,88172,Cytp dx eval fna 1st ea site,PathLab
+585477,73620,X-ray exam of foot,Radiology
+585498,4115F,Beta blckr admin w/in 24 hrs,CPT Cat II Codes
+585519,90832,Psytx w pt 30 minutes,Medicine
+585540,96136,Psycl/nrpsyc tst phy/qhp 1st,Misc
+585561,J1200,Diphenhydramine hcl injectio,HCPCS Level II Codes
+585582,93970,Extremity study,Medicine
+585603,73130,X-ray exam of hand,Radiology
+585624,96365,Ther/proph/diag iv inf init,Medicine
+585645,72100,X-ray exam l-s spine 2/3 vws,Radiology
+585666,99221,Initial hospital care,Hospital
+585687,72020,X-ray exam of spine 1 view,Radiology
+585708,90723,Dtap-hep b-ipv vaccine im,Medicine
+585729,81003,Urinalysis auto w/o scope,PathLab
+585750,90834,Psytx w pt 45 minutes,Medicine
+585792,J1100,Dexamethasone sodium phos,HCPCS Level II Codes
+585813,75710,Artery x-rays arm/leg,Radiology
+585834,99222,Initial hospital care,Hospital
+585855,78452,Ht muscle image spect mult,Radiology
+585876,88188,Flowcytometry/read 9-15,PathLab
+585897,43762,Rplc gtube no revj trc,Surgery
+585918,75574,Ct angio hrt w/3d image,Radiology
+585939,70496,Ct angiography head,Radiology
+585960,34705,Evac rpr a-biiliac ndgft,Surgery
+585981,78226,Hepatobiliary system imaging,Radiology
+586002,49083,Abd paracentesis w/imaging,Surgery
+586023,58300,Insert intrauterine device,Surgery
+586044,72158,Mri lumbar spine w/o & w/dye,Radiology
+586065,19001,Drain breast lesion add-on,Surgery
+586086,93321,Doppler echo exam heart,Medicine
+586128,20610,Drain/inj joint/bursa w/o us,Surgery
+586149,76828,Echo exam of fetal heart,Radiology
+586170,93279,Prgrmg dev eval pm/ldls pm,Medicine
+586191,73590,X-ray exam of lower leg,Radiology
+586212,93294,Rem interrog evl pm/ldls pm,Medicine
+586233,93227,Ecg monit/reprt up to 48 hrs,Medicine
+586254,73701,Ct lower extremity w/dye,Radiology
+586275,99393,Prev visit est age 5-11,Office
+586296,73080,X-ray exam of elbow,Radiology
+586317,99232,Subsequent hospital care,Hospital
+586338,94640,Airway inhalation treatment,Medicine
+586359,92134,Cptr ophth dx img post segmt,Medicine
+586380,76810,Ob us >/= 14 wks addl fetus,Radiology
+586401,21743,Repair sternum/nuss w/scope,Surgery
+586422,99396,Prev visit est age 40-64,Office
+586443,93283,Prgrmg eval implantable dfb,Medicine
+586464,29075,Application of forearm cast,Surgery
+586485,99173,Visual acuity screen,Medicine
+586506,88341,Immunohisto antb addl slide,PathLab
+586548,1111F,Dschrg med/current med merge,CPT Cat II Codes
+586569,33208,Insrt heart pm atrial & vent,Surgery
+586590,33970,Aortic circulation assist,Surgery
+586611,99204,Office/outpatient visit new,Office
+586632,73721,Mri jnt of lwr extre w/o dye,Radiology
+586653,99203,Office/outpatient visit new,Office
+586674,93656,Tx atrial fib pulm vein isol,Medicine
+586695,88187,Flowcytometry/read 2-8,PathLab
+586716,93971,Extremity study,Medicine
+586737,99220,Initial observation care,Hospital
+586758,99213,Office/outpatient visit est,Office
+586779,76827,Echo exam of fetal heart,Radiology
+586800,74178,Ct abd & pelv 1/> regns,Radiology
+586821,20610,Drain/inj joint/bursa w/o us,Surgery
+586842,93295,Dev interrog remote 1/2/mlt,Medicine
+586863,99214,Office/outpatient visit est,Office
+586884,36470,Njx sclrsnt 1 incmptnt vein,Surgery
+586905,51798,Us urine capacity measure,Surgery
+586926,75984,Xray control catheter change,Radiology
+586947,76815,Ob us limited fetus(s),Radiology
+586968,88304,Tissue exam by pathologist,PathLab
+586989,90682,Riv4 vacc recombinant dna im,Medicine
+587010,99223,Initial hospital care,Hospital
+587031,76816,Ob us follow-up per fetus,Radiology
+587052,20552,Inj trigger point 1/2 muscl,Surgery
+587073,99223,Initial hospital care,Hospital
+587094,99202,Office/outpatient visit new,Office
+587115,76642,Ultrasound breast limited,Radiology
+587136,74330,X-ray bile/panc endoscopy,Radiology
+587157,74018,X-ray exam abdomen 1 view,Radiology
+587178,73120,X-ray exam of hand,Radiology
+587199,72070,X-ray exam thorac spine 2vws,Radiology
+587220,99395,Prev visit est age 18-39,Office
+587241,99479,Ic lbw inf 1500-2500 g subsq,Office
+587262,36620,Insertion catheter artery,Surgery
+587283,94060,Evaluation of wheezing,Medicine
+587304,97112,Neuromuscular reeducation,Medicine
+587325,99233,Subsequent hospital care,Hospital
+587346,99243,Office consultation,Office
+587367,80502,Lab pathology consultation,PathLab
+587388,73721,Mri jnt of lwr extre w/o dye,Radiology
+587409,92020,Special eye evaluation,Medicine
+587430,99396,Prev visit est age 40-64,Office
+587451,99226,Subsequent observation care,Misc
+587472,99285,Emergency dept visit,Hospital
+587493,31622,Dx bronchoscope/wash,Surgery
+587514,92235,Fluorescein angrph uni/bi,Medicine
+587535,99357,Prolonged service inpatient,Hospital
+587556,76937,Us guide vascular access,Radiology
+587577,99202,Office/outpatient visit new,Office
+587598,90633,Hepa vacc ped/adol 2 dose im,Medicine
+587619,99213,Office/outpatient visit est,Office
+587640,72141,Mri neck spine w/o dye,Radiology
+587661,J1050,Medroxyprogesterone acetate,HCPCS Level II Codes
+587682,77066,Dx mammo incl cad bi,Misc
+587703,57456,Endocerv curettage w/scope,Surgery
+587724,93970,Extremity study,Medicine
+587745,3078F,Diast bp <80 mm hg,CPT Cat II Codes
+587766,76825,Echo exam of fetal heart,Radiology
+587787,93315,Echo transesophageal,Medicine
+587808,92250,Eye exam with photos,Medicine
+587829,93641,Electrophysiology evaluation,Medicine
+587850,36558,Insert tunneled cv cath,Surgery
+587871,58340,Catheter for hysterography,Surgery
+587892,99385,Prev visit new age 18-39,Office
+587913,S2900,Robotic surgical system,HCPCS Level II Codes
+587934,76705,Echo exam of abdomen,Radiology
+587955,99308,Nursing fac care subseq,Nursing/Rest/Home
+587976,72125,Ct neck spine w/o dye,Radiology
+587997,87804,Influenza assay w/optic,PathLab
+588018,92960,Cardioversion electric ext,Medicine
+588039,99220,Initial observation care,Hospital
+588060,99460,Init nb em per day hosp,Office
+588081,99205,Office/outpatient visit new,Office
+588102,77280,Set radiation therapy field,Radiology
+588123,93284,Prgrmg eval implantable dfb,Medicine
+588144,90832,Psytx w pt 30 minutes,Medicine
+588165,27245,Treat thigh fracture,Surgery
+588186,66982,Cataract surgery complex,Surgery
+588207,76642,Ultrasound breast limited,Radiology
+588228,99385,Prev visit new age 18-39,Office
+588249,74174,Ct angio abd&pelv w/o&w/dye,Radiology
+588270,99283,Emergency dept visit,Hospital
+588291,59151,Treat ectopic pregnancy,Surgery
+588312,99212,Office/outpatient visit est,Office
+588333,99285,Emergency dept visit,Hospital
+588375,99213,Office/outpatient visit est,Office
+588396,72040,X-ray exam neck spine 2-3 vw,Radiology
+588438,G0438,"Ppps, initial visit",HCPCS Level II Codes
+588459,99356,Prolonged service inpatient,Hospital
+588480,38505,Needle biopsy lymph nodes,Surgery
+588501,Q4032,Cast sup lng leg ped fbrgls,HCPCS Level II Codes
+588522,95886,Musc test done w/n test comp,Medicine
+588543,74022,X-ray exam series abdomen,Radiology
+588564,76801,Ob us < 14 wks single fetus,Radiology
+588585,71046,X-ray exam chest 2 views,Radiology
+588606,S9999,Sales tax,HCPCS Level II Codes
+588627,3077F,Syst bp >/= 140 mm hg,CPT Cat II Codes
+588648,99202,Office/outpatient visit new,Office
+588669,90474,Immune admin oral/nasal addl,Medicine
+588690,76641,Ultrasound breast complete,Radiology
+588711,99468,Neonate crit care initial,Hospital
+588732,4010F,Ace/arb therapy rxd/taken,CPT Cat II Codes
+588753,20610,Drain/inj joint/bursa w/o us,Surgery
+588774,J1050,Medroxyprogesterone acetate,HCPCS Level II Codes
+588795,93571,Heart flow reserve measure,Medicine
+588816,78815,Pet image w/ct skull-thigh,Radiology
+588837,70486,Ct maxillofacial w/o dye,Radiology
+588858,99223,Initial hospital care,Hospital
+588879,78452,Ht muscle image spect mult,Radiology
+588900,V2203,Lens sphcyl bifocal 4.00d/.1,HCPCS Level II Codes
+588921,90714,Td vacc no presv 7 yrs+ im,Medicine
+588942,70551,Mri brain stem w/o dye,Radiology
+588963,76377,3d render w/intrp postproces,Radiology
+588984,93308,Tte f-up or lmtd,Medicine
+589005,77338,Design mlc device for imrt,Radiology
+589026,71045,X-ray exam chest 1 view,Radiology
+589047,G0010,Admin hepatitis b vaccine,HCPCS Level II Codes
+589068,93975,Vascular study,Medicine
+589089,99282,Emergency dept visit,Hospital
+589110,12001,Rpr s/n/ax/gen/trnk 2.5cm/<,Surgery
+589131,99233,Subsequent hospital care,Hospital
+589152,99291,Critical care first hour,Hospital
+589173,90739,Hepb vacc 2 dose adult im,Medicine
+589194,99285,Emergency dept visit,Hospital
+589215,99480,Ic inf pbw 2501-5000 g subsq,Office
+589236,99233,Subsequent hospital care,Hospital
+589257,45380,Colonoscopy and biopsy,Surgery
+589278,72131,Ct lumbar spine w/o dye,Radiology
+589299,36573,Insj picc rs&i 5 yr+,Surgery
+589320,99308,Nursing fac care subseq,Nursing/Rest/Home
+589341,73564,X-ray exam knee 4 or more,Radiology
+589362,78071,Parathyrd planar w/wo subtrj,Radiology
+589383,99283,Emergency dept visit,Hospital
+589404,32555,Aspirate pleura w/ imaging,Surgery
+589425,93458,L hrt artery/ventricle angio,Medicine
+589446,76872,Us transrectal,Radiology
+589467,92960,Cardioversion electric ext,Medicine
+589488,76942,Echo guide for biopsy,Radiology
+589509,73564,X-ray exam knee 4 or more,Radiology
+589530,73090,X-ray exam of forearm,Radiology
+589551,21743,Repair sternum/nuss w/scope,Surgery
+589572,70360,X-ray exam of neck,Radiology
+589593,77301,Radiotherapy dose plan imrt,Radiology
+589614,36569,Insj picc 5 yr+ w/o imaging,Surgery
+589635,33430,Replacement of mitral valve,Surgery
+589656,99472,Ped critical care subsq,Hospital
+589677,92014,Eye exam&tx estab pt 1/>vst,Medicine
+589698,99496,Trans care mgmt 7 day disch,Office
+589719,87880,Strep a assay w/optic,PathLab
+589740,74261,Ct colonography dx,Radiology
+589761,93018,Cardiovascular stress test,Medicine
+589782,99214,Office/outpatient visit est,Office
+589803,93308,Tte f-up or lmtd,Medicine
+589824,95874,Guide nerv destr needle emg,Medicine
+589845,99397,Per pm reeval est pat 65+ yr,Office
+589866,27750,Treatment of tibia fracture,Surgery
+589887,57452,Exam of cervix w/scope,Surgery
+589908,99214,Office/outpatient visit est,Office
+589929,73030,X-ray exam of shoulder,Radiology
+589950,99213,Office/outpatient visit est,Office
+589971,99223,Initial hospital care,Hospital
+589992,90472,Immunization admin each add,Medicine
+590013,99221,Initial hospital care,Hospital
+590034,93306,Tte w/doppler complete,Medicine
+590055,73560,X-ray exam of knee 1 or 2,Radiology
+590076,99384,Prev visit new age 12-17,Office
+590097,93320,Doppler echo exam heart,Medicine
+590118,88307,Tissue exam by pathologist,PathLab
+590139,93042,Rhythm ecg report,Medicine
+590160,99496,Trans care mgmt 7 day disch,Office
+590181,10006,Fna bx w/us gdn ea addl,Misc
+590202,G0180,Md certification hha patient,HCPCS Level II Codes
+590223,99219,Initial observation care,Hospital
+590244,74230,Cine/vid x-ray throat/esoph,Radiology
+590265,99292,Critical care addl 30 min,Hospital
+590286,99291,Critical care first hour,Hospital
+590307,82270,Occult blood feces,PathLab
+590328,70551,Mri brain stem w/o dye,Radiology
+590349,99391,Per pm reeval est pat infant,Office
+590370,1159F,Med list docd in rcrd,CPT Cat II Codes
+590391,45330,Diagnostic sigmoidoscopy,Surgery
+590412,90707,Mmr vaccine sc,Medicine
+590433,77002,Needle localization by xray,Radiology
+590454,93010,Electrocardiogram report,Medicine
+590475,99255,Inpatient consultation,Hospital
+590496,99394,Prev visit est age 12-17,Office
+590517,93971,Extremity study,Medicine
+590538,76937,Us guide vascular access,Radiology
+590559,72125,Ct neck spine w/o dye,Radiology
+590580,93000,Electrocardiogram complete,Medicine
+590601,99291,Critical care first hour,Hospital
+590622,99220,Initial observation care,Hospital
+590643,74455,X-ray urethra/bladder,Radiology
+590664,76815,Ob us limited fetus(s),Radiology
+590685,99284,Emergency dept visit,Hospital
+590706,76819,Fetal biophys profil w/o nst,Radiology
+590727,99203,Office/outpatient visit new,Office
+590748,49405,Image cath fluid colxn visc,Surgery
+590769,93325,Doppler color flow add-on,Medicine
+590790,70470,Ct head/brain w/o & w/dye,Radiology
+590811,93325,Doppler color flow add-on,Medicine
+590832,70544,Mr angiography head w/o dye,Radiology
+590853,99213,Office/outpatient visit est,Office
+590874,74220,Contrast x-ray esophagus,Radiology
+590895,82270,Occult blood feces,PathLab
+590916,99223,Initial hospital care,Hospital
+590937,99152,Mod sed same phys/qhp 5/>yrs,Misc
+590958,71250,Ct thorax w/o dye,Radiology
+590979,99222,Initial hospital care,Hospital
+591000,90621,Menb-fhbp vacc 2/3 dose im,Medicine
+591021,49568,Hernia repair w/mesh,Surgery
+591042,99213,Office/outpatient visit est,Office
+591063,78306,Bone imaging whole body,Radiology
+591084,76805,Ob us >/= 14 wks sngl fetus,Radiology
+591105,93297,Rem interrog dev eval icpms,Medicine
+591126,99024,Postop follow-up visit,Medicine
+591147,99358,Prolong service w/o contact,Office
+591168,88312,Special stains group 1,PathLab
+591189,33405,Replacement aortic valve opn,Surgery
+591210,93350,Stress tte only,Medicine
+591231,99462,Sbsq nb em per day hosp,Office
+591252,99213,Office/outpatient visit est,Office
+591273,74018,X-ray exam abdomen 1 view,Radiology
+591294,20610,Drain/inj joint/bursa w/o us,Surgery
+591315,76642,Ultrasound breast limited,Radiology
+591336,76604,Us exam chest,Radiology
+591357,76815,Ob us limited fetus(s),Radiology
+591378,20665,Removal of fixation device,Surgery
+591399,99222,Initial hospital care,Hospital
+591420,77307,Telethx isodose plan cplx,Radiology
+591441,93975,Vascular study,Medicine
+591462,73120,X-ray exam of hand,Radiology
+591483,88112,Cytopath cell enhance tech,PathLab
+591504,11302,Shave skin lesion 1.1-2.0 cm,Surgery
+591525,90715,Tdap vaccine 7 yrs/> im,Medicine
+591546,59025,Fetal non-stress test,Surgery
+591567,99392,Prev visit est age 1-4,Office
+591588,99214,Office/outpatient visit est,Office
+591609,73610,X-ray exam of ankle,Radiology
+591630,88302,Tissue exam by pathologist,PathLab
+591651,99305,Nursing facility care init,Nursing/Rest/Home
+591672,99497,Advncd care plan 30 min,Office
+591693,93306,Tte w/doppler complete,Medicine
+591714,93312,Echo transesophageal,Medicine
+591735,99213,Office/outpatient visit est,Office
+591756,96127,Brief emotional/behav assmt,Misc
+591777,93922,Upr/l xtremity art 2 levels,Medicine
+591798,73000,X-ray exam of collar bone,Radiology
+591819,93288,Interrog evl pm/ldls pm ip,Medicine
+591840,99232,Subsequent hospital care,Hospital
+591882,93325,Doppler color flow add-on,Medicine
+591903,71100,X-ray exam ribs uni 2 views,Radiology
+591924,33517,Cabg artery-vein single,Surgery
+591945,99236,Observ/hosp same date,Hospital
+591966,93016,Cardiovascular stress test,Medicine
+591987,99211,Office/outpatient visit est,Office
+592008,4043F,Doc order given stop antibio,CPT Cat II Codes
+592029,95911,Nrv cndj test 9-10 studies,Medicine
+592050,85610,Prothrombin time,PathLab
+592071,36573,Insj picc rs&i 5 yr+,Surgery
+592092,77065,Dx mammo incl cad uni,Misc
+592113,74176,Ct abd & pelvis w/o contrast,Radiology
+592134,76770,Us exam abdo back wall comp,Radiology
+592155,71046,X-ray exam chest 2 views,Radiology
+592176,73523,X-ray exam hips bi 5/> views,Radiology
+592197,59430,Care after delivery,Surgery
+592218,96130,Psycl tst eval phys/qhp 1st,Misc
+592260,99053,Med serv 10pm-8am 24 hr fac,Medicine
+592281,30903,Control of nosebleed,Surgery
+592302,99232,Subsequent hospital care,Hospital
+592323,36569,Insj picc 5 yr+ w/o imaging,Surgery
+592344,93000,Electrocardiogram complete,Medicine
+592365,26720,Treat finger fracture each,Surgery
+592386,90732,Ppsv23 vacc 2 yrs+ subq/im,Medicine
+592407,98966,Hc pro phone call 5-10 min,Medicine
+592428,99219,Initial observation care,Hospital
+592449,99080,Special reports or forms,Medicine
+592470,99213,Office/outpatient visit est,Office
+592491,77470,Special radiation treatment,Radiology
+592512,28510,Treatment of toe fracture,Surgery
+592533,73564,X-ray exam knee 4 or more,Radiology
+592554,4046F,Doc antibio given b/4 surg,CPT Cat II Codes
+592575,99464,Attendance at delivery,Hospital
+592596,85060,Blood smear interpretation,PathLab
+592617,49505,Prp i/hern init reduc >5 yr,Surgery
+592638,51600,Injection for bladder x-ray,Surgery
+592659,1036F,Tobacco non-user,CPT Cat II Codes
+592680,71275,Ct angiography chest,Radiology
+592701,33511,Cabg vein two,Surgery
+592722,99232,Subsequent hospital care,Hospital
+592743,36416,Capillary blood draw,Surgery
+592764,93660,Tilt table evaluation,Medicine
+592785,76801,Ob us < 14 wks single fetus,Radiology
+592806,77002,Needle localization by xray,Radiology
+592827,36514,Apheresis plasma,Surgery
+592848,88329,Path consult introp,PathLab
+592869,93225,Ecg monit/reprt up to 48 hrs,Medicine
+592890,81002,Urinalysis nonauto w/o scope,PathLab
+592911,93325,Doppler color flow add-on,Medicine
+592932,99223,Initial hospital care,Hospital
+592953,90471,Immunization admin,Medicine
+592974,V2797,Vis item/svc in other code,HCPCS Level II Codes
+592995,76801,Ob us < 14 wks single fetus,Radiology
+593016,95251,Cont gluc mntr analysis i&r,Medicine
+593037,93306,Tte w/doppler complete,Medicine
+593058,77263,Radiation therapy planning,Radiology
+593079,99214,Office/outpatient visit est,Office
+593100,77333,Radiation treatment aid(s),Radiology
+593121,96160,Pt-focused hlth risk assmt,Misc
+593142,70553,Mri brain stem w/o & w/dye,Radiology
+593163,62252,Csf shunt reprogram,Surgery
+593184,76817,Transvaginal us obstetric,Radiology
+593205,72202,X-ray exam si joints 3/> vws,Radiology
+593226,33216,Insert 1 electrode pm-defib,Surgery
+593247,99223,Initial hospital care,Hospital
+593268,73502,X-ray exam hip uni 2-3 views,Radiology
+593289,56405,I & d of vulva/perineum,Surgery
+593310,88361,Tumor immunohistochem/comput,PathLab
+593331,99472,Ped critical care subsq,Hospital
+593352,88309,Tissue exam by pathologist,PathLab
+593373,76377,3d render w/intrp postproces,Radiology
+593394,90632,Hepa vaccine adult im,Medicine
+593415,93580,Transcath closure of asd,Medicine
+593436,76830,Transvaginal us non-ob,Radiology
+593457,93279,Prgrmg dev eval pm/ldls pm,Medicine
+593520,G0297,Ldct for lung ca screen,HCPCS Level II Codes
+593541,37221,Iliac revasc w/stent,Surgery
+593583,19082,Bx breast add lesion strtctc,Surgery
+593625,77067,Scr mammo bi incl cad,Misc
+593646,93925,Lower extremity study,Medicine
+593667,19083,Bx breast 1st lesion us imag,Surgery
+593688,99231,Subsequent hospital care,Hospital
+593709,76098,X-ray exam surgical specimen,Radiology
+593730,99395,Prev visit est age 18-39,Office
+593751,93280,Pm device progr eval dual,Medicine
+593772,57454,Bx/curett of cervix w/scope,Surgery
+593793,A9500,Tc99m sestamibi,HCPCS Level II Codes
+593814,99203,Office/outpatient visit new,Office
+593835,76805,Ob us >/= 14 wks sngl fetus,Radiology
+593856,61796,Srs cranial lesion simple,Surgery
+593877,33508,Endoscopic vein harvest,Surgery
+593898,99212,Office/outpatient visit est,Office
+593919,77334,Radiation treatment aid(s),Radiology
+593940,99232,Subsequent hospital care,Hospital
+593961,99225,Subsequent observation care,Misc
+593982,66984,Cataract surg w/iol 1 stage,Surgery
+594003,76010,X-ray nose to rectum,Radiology
+594024,76816,Ob us follow-up per fetus,Radiology
+594045,93325,Doppler color flow add-on,Medicine
+594066,71250,Ct thorax w/o dye,Radiology
+594087,88311,Decalcify tissue,PathLab
+594108,10005,Fna bx w/us gdn 1st les,Misc
+594129,99475,Ped crit care age 2-5 init,Hospital
+594150,99285,Emergency dept visit,Hospital
+594171,99152,Mod sed same phys/qhp 5/>yrs,Misc
+594192,57288,Repair bladder defect,Surgery
+594213,57065,Destroy vag lesions complex,Surgery
+594234,93010,Electrocardiogram report,Medicine
+594255,G0101,Ca screen;pelvic/breast exam,HCPCS Level II Codes
+594276,72081,X-ray exam entire spi 1 vw,Radiology
+594297,90716,Var vaccine live subq,Medicine
+594318,99233,Subsequent hospital care,Hospital
+594339,90734,Mcv4 menacwy vaccine im,Medicine
+594360,93294,Rem interrog evl pm/ldls pm,Medicine
+594381,99393,Prev visit est age 5-11,Office
+594402,99202,Office/outpatient visit new,Office
+594423,99284,Emergency dept visit,Hospital
+594444,73620,X-ray exam of foot,Radiology
+594465,J0475,Baclofen 10 mg injection,HCPCS Level II Codes
+594486,88720,Bilirubin total transcut,PathLab
+594507,93613,Electrophys map 3d add-on,Medicine
+594528,76816,Ob us follow-up per fetus,Radiology
+594549,90710,Mmrv vaccine sc,Medicine
+594570,92136,Ophthalmic biometry,Medicine
+594591,71260,Ct thorax w/dye,Radiology
+594612,98929,Osteopath manj 9-10 regions,Medicine
+594633,12011,Rpr f/e/e/n/l/m 2.5 cm/<,Surgery
+594654,93350,Stress tte only,Medicine
+594675,99495,Trans care mgmt 14 day disch,Office
+594696,92025,Corneal topography,Medicine
+594717,72114,X-ray exam l-s spine bending,Radiology
+594738,55876,Place rt device/marker pros,Surgery
+594759,36573,Insj picc rs&i 5 yr+,Surgery
+594780,92012,Eye exam establish patient,Medicine
+594822,90688,Iiv4 vaccine splt 0.5 ml im,Medicine
+594864,95908,Nrv cndj tst 3-4 studies,Medicine
+594885,49320,Diag laparo separate proc,Surgery
+594906,87880,Strep a assay w/optic,PathLab
+594927,95806,Sleep study unatt&resp efft,Medicine
+594948,99238,Hospital discharge day,Hospital
+594969,37211,Thrombolytic art therapy,Surgery
+594990,73565,X-ray exam of knees,Radiology
+595011,36415,Routine venipuncture,Surgery
+595032,G0444,Depression screen annual,HCPCS Level II Codes
+595053,90662,Iiv no prsv increased ag im,Medicine
+595074,76700,Us exam abdom complete,Radiology
+595095,72072,X-ray exam thorac spine 3vws,Radiology
+595116,99391,Per pm reeval est pat infant,Office
+595137,93350,Stress tte only,Medicine
+595158,76942,Echo guide for biopsy,Radiology
+595179,76870,Us exam scrotum,Radiology
+595200,99386,Prev visit new age 40-64,Office
+595221,81002,Urinalysis nonauto w/o scope,PathLab
+595242,62304,Myelography lumbar injection,Surgery
+595263,93017,Cardiovascular stress test,Medicine
+595284,92083,Visual field examination(s),Medicine
+595305,99386,Prev visit new age 40-64,Office
+595326,73070,X-ray exam of elbow,Radiology
+595347,G0279,"Tomosynthesis, mammo",HCPCS Level II Codes
+595368,85610,Prothrombin time,PathLab
+595389,82044,Ur albumin semiquantitative,PathLab
+595410,99204,Office/outpatient visit new,Office
+595431,93018,Cardiovascular stress test,Medicine
+595452,90707,Mmr vaccine sc,Medicine
+595473,99462,Sbsq nb em per day hosp,Office
+595494,33405,Replacement aortic valve opn,Surgery
+595515,58662,Laparoscopy excise lesions,Surgery
+595536,76642,Ultrasound breast limited,Radiology
+595557,43775,Lap sleeve gastrectomy,Surgery
+595578,19081,Bx breast 1st lesion strtctc,Surgery
+595599,G0182,Hospice care supervision,HCPCS Level II Codes
+595620,41010,Incision of tongue fold,Surgery
+595641,99215,Office/outpatient visit est,Office
+595662,77003,Fluoroguide for spine inject,Radiology
+595683,99239,Hospital discharge day,Hospital
+595704,10160,Puncture drainage of lesion,Surgery
+595725,92551,Pure tone hearing test air,Medicine
+595746,77427,Radiation tx management x5,Radiology
+595767,99222,Initial hospital care,Hospital
+595788,G0121,Colon ca scrn not hi rsk ind,HCPCS Level II Codes
+595809,99213,Office/outpatient visit est,Office
+595830,59025,Fetal non-stress test,Surgery
+595851,93306,Tte w/doppler complete,Medicine
+595872,99309,Nursing fac care subseq,Nursing/Rest/Home
+595893,54150,Circumcision w/regionl block,Surgery
+595914,73630,X-ray exam of foot,Radiology
+595935,96116,Nubhvl xm phys/qhp 1st hr,Medicine
+595956,74177,Ct abd & pelv w/contrast,Radiology
+595998,11042,Deb subq tissue 20 sq cm/<,Surgery
+596019,90750,Hzv vacc recombinant im,Misc
+596040,98926,Osteopath manj 3-4 regions,Medicine
+596061,85097,Bone marrow interpretation,PathLab
+596082,90471,Immunization admin,Medicine
+596103,99309,Nursing fac care subseq,Nursing/Rest/Home
+596124,99281,Emergency dept visit,Hospital
+596145,74270,Contrast x-ray exam of colon,Radiology
+596166,99220,Initial observation care,Hospital
+596187,3079F,Diast bp 80-89 mm hg,CPT Cat II Codes
+596208,99306,Nursing facility care init,Nursing/Rest/Home
+596271,78815,Pet image w/ct skull-thigh,Radiology
+596292,88346,Immunofluor antb 1st stain,PathLab
+596313,44970,Laparoscopy appendectomy,Surgery
+596334,99463,Same day nb discharge,Office
+596355,33361,Replace aortic valve perq,Surgery
+596376,93971,Extremity study,Medicine
+596397,93016,Cardiovascular stress test,Medicine
+596418,99205,Office/outpatient visit new,Office
+596460,76770,Us exam abdo back wall comp,Radiology
+596481,70544,Mr angiography head w/o dye,Radiology
+596502,59409,Obstetrical care,Surgery
+596523,43280,Laparoscopy fundoplasty,Surgery
+596544,11423,Exc h-f-nk-sp b9+marg 2.1-3,Surgery
+596565,93978,Vascular study,Medicine
+596586,G0439,"Ppps, subseq visit",HCPCS Level II Codes
+596607,77332,Radiation treatment aid(s),Radiology
+596628,90658,Iiv3 vaccine splt 0.5 ml im,Medicine
+596649,49440,Place gastrostomy tube perc,Surgery
+596670,93662,Intracardiac ecg (ice),Medicine
+596691,49561,Rpr ventral hern init block,Surgery
+596712,99226,Subsequent observation care,Misc
+596733,77290,Set radiation therapy field,Radiology
+596754,99385,Prev visit new age 18-39,Office
+596775,74176,Ct abd & pelvis w/o contrast,Radiology
+596796,99223,Initial hospital care,Hospital
+596817,1034F,Current tobacco smoker,CPT Cat II Codes
+596838,73630,X-ray exam of foot,Radiology
+596859,99283,Emergency dept visit,Hospital
+596880,92012,Eye exam establish patient,Medicine
+596901,72190,X-ray exam of pelvis,Radiology
+596943,70498,Ct angiography neck,Radiology
+596964,99203,Office/outpatient visit new,Office
+597006,45380,Colonoscopy and biopsy,Surgery
+597027,73090,X-ray exam of forearm,Radiology
+597048,99283,Emergency dept visit,Hospital
+597069,99223,Initial hospital care,Hospital
+597090,93572,Heart flow reserve measure,Medicine
+597111,99239,Hospital discharge day,Hospital
+597132,G9007,"Mccd, sch team conf",HCPCS Level II Codes
+597153,99053,Med serv 10pm-8am 24 hr fac,Medicine
+597174,71045,X-ray exam chest 1 view,Radiology
+597195,81002,Urinalysis nonauto w/o scope,PathLab
+597216,36561,Insert tunneled cv cath,Surgery
+597237,99222,Initial hospital care,Hospital
+597258,54150,Circumcision w/regionl block,Surgery
+597279,83036,Glycosylated hemoglobin test,PathLab
+597300,19281,Perq device breast 1st imag,Surgery
+597321,36478,Endovenous laser 1st vein,Surgery
+597342,71100,X-ray exam ribs uni 2 views,Radiology
+597363,76942,Echo guide for biopsy,Radiology
+597384,99223,Initial hospital care,Hospital
+597405,73060,X-ray exam of humerus,Radiology
+597426,90696,Dtap-ipv vaccine 4-6 yrs im,Medicine
+597447,70150,X-ray exam of facial bones,Radiology
+597468,99024,Postop follow-up visit,Medicine
+597489,99367,Team conf w/o pat by phys,Office
+597510,99460,Init nb em per day hosp,Office
+597531,43275,Ercp remove forgn body duct,Surgery
+597552,4000F,Tobacco use txmnt counseling,CPT Cat II Codes
+597573,82962,Glucose blood test,PathLab
+597594,72110,X-ray exam l-2 spine 4/>vws,Radiology
+597615,95885,Musc tst done w/nerv tst lim,Medicine
+597636,99183,Hyperbaric oxygen therapy,Medicine
+597657,95251,Cont gluc mntr analysis i&r,Medicine
+597678,J3301,Triamcinolone acet inj nos,HCPCS Level II Codes
+597699,99291,Critical care first hour,Hospital
+597720,93228,Remote 30 day ecg rev/report,Medicine
+597741,96365,Ther/proph/diag iv inf init,Medicine
+597762,99477,Init day hosp neonate care,Office
+597783,80305,Drug test prsmv dir opt obs,Misc
+597804,99395,Prev visit est age 18-39,Office
+597825,99233,Subsequent hospital care,Hospital
+597846,11042,Deb subq tissue 20 sq cm/<,Surgery
+597867,81025,Urine pregnancy test,PathLab
+597888,73620,X-ray exam of foot,Radiology
+597909,78816,Pet image w/ct full body,Radiology
+597951,99212,Office/outpatient visit est,Office
+597972,99213,Office/outpatient visit est,Office
+597993,99396,Prev visit est age 40-64,Office
+598014,99231,Subsequent hospital care,Hospital
+598035,76942,Echo guide for biopsy,Radiology
+598056,3075F,Syst bp ge 130 - 139mm hg,CPT Cat II Codes
+598098,74183,Mri abdomen w/o & w/dye,Radiology
+598119,90791,Psych diagnostic evaluation,Misc
+598161,75571,Ct hrt w/o dye w/ca test,Radiology
+598182,63048,Remove spinal lamina add-on,Surgery
+598203,33508,Endoscopic vein harvest,Surgery
+598224,J1756,Iron sucrose injection,HCPCS Level II Codes
+598245,99392,Prev visit est age 1-4,Office
+598266,70450,Ct head/brain w/o dye,Radiology
+598287,99316,Nursing fac discharge day,Nursing/Rest/Home
+598308,99157,Mod sed other phys/qhp ea,Misc
+598329,99204,Office/outpatient visit new,Office
+598350,Q0091,Obtaining screen pap smear,HCPCS Level II Codes
+598371,0298T,Ext ecg review and interp,Misc
+598392,95117,Immunotherapy injections,Medicine
+598413,3074F,Syst bp lt 130 mm hg,CPT Cat II Codes
+598434,64642,Chemodenerv 1 extremity 1-4,Surgery
+598455,J3250,Trimethobenzamide hcl inj,HCPCS Level II Codes
+598476,J7307,Etonogestrel implant system,HCPCS Level II Codes
+598497,90698,Dtap-ipv/hib vaccine im,Medicine
+598518,99283,Emergency dept visit,Hospital
+598539,99236,Observ/hosp same date,Hospital
+598560,78452,Ht muscle image spect mult,Radiology
+598581,90472,Immunization admin each add,Medicine
+598602,70549,Mr angiograph neck w/o&w/dye,Radiology
+598623,G0402,Initial preventive exam,HCPCS Level II Codes
+598644,99406,Behav chng smoking 3-10 min,Office
+598665,93297,Rem interrog dev eval icpms,Medicine
+598686,77334,Radiation treatment aid(s),Radiology
+598707,88189,Flowcytometry/read 16 & >,PathLab
+598728,99213,Office/outpatient visit est,Office
+598749,76830,Transvaginal us non-ob,Radiology
+598770,90836,Psytx w pt w e/m 45 min,Medicine
+598791,45390,Colonoscopy w/resection,Surgery
+598833,90632,Hepa vaccine adult im,Medicine
+598854,99155,Mod sed oth phys/qhp <5 yrs,Misc
+598875,99395,Prev visit est age 18-39,Office
+598896,0296T,Ext ecg recording,Misc
+598917,59025,Fetal non-stress test,Surgery
+598938,99238,Hospital discharge day,Hospital
+598959,90680,Rv5 vacc 3 dose live oral,Medicine
+598980,85025,Complete cbc w/auto diff wbc,PathLab
+599001,96372,Ther/proph/diag inj sc/im,Medicine
+599022,73562,X-ray exam of knee 3,Radiology
+599043,99220,Initial observation care,Hospital
+599064,99233,Subsequent hospital care,Hospital
+599085,93886,Intracranial complete study,Medicine
+599106,36590,Removal tunneled cv cath,Surgery
+599127,J1030,Methylprednisolone 40 mg inj,HCPCS Level II Codes
+599148,72131,Ct lumbar spine w/o dye,Radiology
+599169,93978,Vascular study,Medicine
+599211,3080F,Diast bp >/= 90 mm hg,CPT Cat II Codes
+599232,77067,Scr mammo bi incl cad,Misc
+599253,21230,Rib cartilage graft,Surgery
+599274,93015,Cardiovascular stress test,Medicine
+599295,99391,Per pm reeval est pat infant,Office
+599316,72148,Mri lumbar spine w/o dye,Radiology
+599337,3008F,Body mass index docd,CPT Cat II Codes
+599358,97140,Manual therapy 1/> regions,Medicine
+599379,99215,Office/outpatient visit est,Office
+599400,93350,Stress tte only,Medicine
+599421,99231,Subsequent hospital care,Hospital
+599442,17250,Chem caut of granltj tissue,Surgery
+599463,99053,Med serv 10pm-8am 24 hr fac,Medicine
+599484,90620,Menb-4c vacc 2 dose im,Medicine
+599505,78300,Bone imaging limited area,Radiology
+599526,88360,Tumor immunohistochem/manual,PathLab
+599547,93298,Rem interrog dev eval scrms,Medicine
+599568,99222,Initial hospital care,Hospital
+599589,90832,Psytx w pt 30 minutes,Medicine
+599610,73700,Ct lower extremity w/o dye,Radiology
+599631,3074F,Syst bp lt 130 mm hg,CPT Cat II Codes
+599652,63045,Remove spine lamina 1 crvl,Surgery
+599673,90670,Pcv13 vaccine im,Medicine
+599694,99233,Subsequent hospital care,Hospital
+599715,84166,Protein e-phoresis/urine/csf,PathLab
+599736,97155,Adapt behavior tx phys/qhp,Medicine
+599757,99203,Office/outpatient visit new,Office
+599778,69209,Remove impacted ear wax uni,Surgery
+599799,73100,X-ray exam of wrist,Radiology
+599820,99202,Office/outpatient visit new,Office
+599841,99233,Subsequent hospital care,Hospital
+599862,76882,Us lmtd jt/nonvasc xtr strux,Radiology
+599883,76882,Us lmtd jt/nonvasc xtr strux,Radiology
+599904,59514,Cesarean delivery only,Surgery
+599925,99381,Init pm e/m new pat infant,Office
+599946,99480,Ic inf pbw 2501-5000 g subsq,Office
+599967,77065,Dx mammo incl cad uni,Misc
+599988,73552,X-ray exam of femur 2/>,Radiology
+600009,93000,Electrocardiogram complete,Medicine
+600030,33533,Cabg arterial single,Surgery
+600051,93655,Ablate arrhythmia add on,Medicine
+600072,31502,Change of windpipe airway,Surgery
+600093,99238,Hospital discharge day,Hospital
+600114,72052,X-ray exam neck spine 6/>vws,Radiology
+600135,76705,Echo exam of abdomen,Radiology
+600156,43282,Lap paraesoph her rpr w/mesh,Surgery
+600177,62369,Anal sp inf pmp w/reprg&fill,Surgery
+600198,99394,Prev visit est age 12-17,Office
+600219,93283,Prgrmg eval implantable dfb,Medicine
+600240,99354,Prolong e&m/psyctx serv o/p,Office
+600261,99220,Initial observation care,Hospital
+600282,11981,Insert drug implant device,Surgery
+600303,76815,Ob us limited fetus(s),Radiology
+600324,72148,Mri lumbar spine w/o dye,Radiology
+600345,75574,Ct angio hrt w/3d image,Radiology
+600366,73501,X-ray exam hip uni 1 view,Radiology
+600408,95249,Cont gluc mntr pt prov eqp,Misc
+600429,77001,Fluoroguide for vein device,Radiology
+600450,99385,Prev visit new age 18-39,Office
+600471,76805,Ob us >/= 14 wks sngl fetus,Radiology
+600492,73221,Mri joint upr extrem w/o dye,Radiology
+600513,95886,Musc test done w/n test comp,Medicine
+600534,77014,Ct scan for therapy guide,Radiology
+600555,19085,Bx breast 1st lesion mr imag,Surgery
+600576,85018,Hemoglobin,PathLab
+600597,88342,Immunohisto antb 1st stain,PathLab
+600618,90460,Im admin 1st/only component,Misc
+600639,82962,Glucose blood test,PathLab
+600660,36556,Insert non-tunnel cv cath,Surgery
+600681,S2900,Robotic surgical system,HCPCS Level II Codes
+600702,90746,Hepb vaccine 3 dose adult im,Medicine
+600723,92083,Visual field examination(s),Medicine
+600744,76642,Ultrasound breast limited,Radiology
+600765,58301,Remove intrauterine device,Surgery
+600786,90832,Psytx w pt 30 minutes,Medicine
+600807,J2010,Lincomycin injection,HCPCS Level II Codes
+600828,G8510,"Scr dep neg, no plan reqd",HCPCS Level II Codes
+600849,92136,Ophthalmic biometry,Medicine
+600870,99385,Prev visit new age 18-39,Office
+600912,78227,Hepatobil syst image w/drug,Radiology
+600933,99392,Prev visit est age 1-4,Office
+600954,99204,Office/outpatient visit new,Office
+600975,76856,Us exam pelvic complete,Radiology
+600996,99383,Prev visit new age 5-11,Office
+601017,V2781,Progressive lens per lens,HCPCS Level II Codes
+601038,33257,Ablate atria lmtd add-on,Surgery
+601059,11312,Shave skin lesion 1.1-2.0 cm,Surgery
+601080,99202,Office/outpatient visit new,Office
+601101,50688,Change of ureter tube/stent,Surgery
+601122,96116,Nubhvl xm phys/qhp 1st hr,Medicine
+601143,0298T,Ext ecg review and interp,Misc
+601164,77001,Fluoroguide for vein device,Radiology
+601185,75561,Cardiac mri for morph w/dye,Radiology
+601206,73130,X-ray exam of hand,Radiology
+601227,95004,Percut allergy skin tests,Medicine
+601248,99284,Emergency dept visit,Hospital
+601269,90736,Hzv vaccine live subq,Medicine
+601290,99152,Mod sed same phys/qhp 5/>yrs,Misc
+601311,99024,Postop follow-up visit,Medicine
+601332,76700,Us exam abdom complete,Radiology
+601353,99231,Subsequent hospital care,Hospital
+601374,19084,Bx breast add lesion us imag,Surgery
+601395,81025,Urine pregnancy test,PathLab
+601416,J2930,Methylprednisolone injection,HCPCS Level II Codes
+601437,93306,Tte w/doppler complete,Medicine
+601458,93010,Electrocardiogram report,Medicine
+601479,81003,Urinalysis auto w/o scope,PathLab
+601500,76881,Us compl joint r-t w/img,Radiology
+601521,81002,Urinalysis nonauto w/o scope,PathLab
+601563,G0439,"Ppps, subseq visit",HCPCS Level II Codes
+601584,93010,Electrocardiogram report,Medicine
+601626,99292,Critical care addl 30 min,Hospital
+601647,99223,Initial hospital care,Hospital
+601668,76816,Ob us follow-up per fetus,Radiology
+601689,99285,Emergency dept visit,Hospital
+601710,G0328,Fecal blood scrn immunoassay,HCPCS Level II Codes
+601731,73560,X-ray exam of knee 1 or 2,Radiology
+601752,43277,Ercp ea duct/ampulla dilate,Surgery
+601773,99238,Hospital discharge day,Hospital
+601794,88305,Tissue exam by pathologist,PathLab
+601815,99238,Hospital discharge day,Hospital
+601836,41116,Excision of mouth lesion,Surgery
+601857,G8431,Pos clin depres scrn f/u doc,HCPCS Level II Codes
+601878,76816,Ob us follow-up per fetus,Radiology
+601899,97014,Electric stimulation therapy,Medicine
+601920,99291,Critical care first hour,Hospital
+601941,90698,Dtap-ipv/hib vaccine im,Medicine
+601962,76817,Transvaginal us obstetric,Radiology
+601983,38792,Ra tracer id of sentinl node,Surgery
+602004,99305,Nursing facility care init,Nursing/Rest/Home
+602025,92015,Determine refractive state,Medicine
+602046,99233,Subsequent hospital care,Hospital
+602067,92557,Comprehensive hearing test,Medicine
+602088,90647,Hib prp-omp vacc 3 dose im,Medicine
+602109,99214,Office/outpatient visit est,Office
+602130,55700,Biopsy of prostate,Surgery
+602151,82947,Assay glucose blood quant,PathLab
+602172,93925,Lower extremity study,Medicine
+602193,Q4030,Cast sup long leg fiberglass,HCPCS Level II Codes
+602214,J3420,Vitamin b12 injection,HCPCS Level II Codes
+602235,90715,Tdap vaccine 7 yrs/> im,Medicine
+602256,99284,Emergency dept visit,Hospital
+602277,93042,Rhythm ecg report,Medicine
+602298,73630,X-ray exam of foot,Radiology
+602319,59426,Antepartum care only,Surgery
+602340,93298,Rem interrog dev eval scrms,Medicine
+602361,70491,Ct soft tissue neck w/dye,Radiology
+602382,72158,Mri lumbar spine w/o & w/dye,Radiology
+602403,86580,Tb intradermal test,PathLab
+602424,99308,Nursing fac care subseq,Nursing/Rest/Home
+602445,57511,Cryocautery of cervix,Surgery
+602466,99223,Initial hospital care,Hospital
+602487,93000,Electrocardiogram complete,Medicine
+602508,77049,Mri breast c-+ w/cad bi,Misc
+602529,73030,X-ray exam of shoulder,Radiology
+602550,19083,Bx breast 1st lesion us imag,Surgery
+602571,94729,Co/membane diffuse capacity,Medicine
+602592,98928,Osteopath manj 7-8 regions,Medicine
+602613,90834,Psytx w pt 45 minutes,Medicine
+602634,99213,Office/outpatient visit est,Office
+602655,76825,Echo exam of fetal heart,Radiology
+602676,90791,Psych diagnostic evaluation,Misc
+602697,73501,X-ray exam hip uni 1 view,Radiology
+602718,76885,Us exam infant hips dynamic,Radiology
+602739,73000,X-ray exam of collar bone,Radiology
+602760,59425,Antepartum care only,Surgery
+602781,93288,Interrog evl pm/ldls pm ip,Medicine
+602802,99316,Nursing fac discharge day,Nursing/Rest/Home
+602823,73100,X-ray exam of wrist,Radiology
+602844,33285,Insj subq car rhythm mntr,Surgery
+602865,93280,Pm device progr eval dual,Medicine
+602886,93288,Interrog evl pm/ldls pm ip,Medicine
+602907,81000,Urinalysis nonauto w/scope,PathLab
+602928,44500,Intro gastrointestinal tube,Surgery
+602949,73564,X-ray exam knee 4 or more,Radiology
+602970,64644,Chemodenerv 1 extrem 5/> mus,Surgery
+602991,99221,Initial hospital care,Hospital
+603012,87804,Influenza assay w/optic,PathLab
+603033,49422,Remove tunneled ip cath,Surgery
+603054,93288,Interrog evl pm/ldls pm ip,Medicine
+603075,76821,Middle cerebral artery echo,Radiology
+603096,99213,Office/outpatient visit est,Office
+603117,73562,X-ray exam of knee 3,Radiology
+603138,99401,Preventive counseling indiv,Office
+603159,99309,Nursing fac care subseq,Nursing/Rest/Home
+603180,57240,Anterior colporrhaphy,Surgery
+603201,73610,X-ray exam of ankle,Radiology
+603222,97153,Adaptive behavior tx by tech,Medicine
+603243,33530,Coronary artery bypass/reop,Surgery
+603264,99215,Office/outpatient visit est,Office
+603285,72082,X-ray exam entire spi 2/3 vw,Radiology
+603306,70544,Mr angiography head w/o dye,Radiology
+603327,23472,Reconstruct shoulder joint,Surgery
+603348,99205,Office/outpatient visit new,Office
+603369,93000,Electrocardiogram complete,Medicine
+603390,93296,Rem interrog evl pm/ids,Medicine
+603411,99284,Emergency dept visit,Hospital
+603432,J1885,Ketorolac tromethamine inj,HCPCS Level II Codes
+603453,59514,Cesarean delivery only,Surgery
+603474,70330,X-ray exam of jaw joints,Radiology
+603495,94010,Breathing capacity test,Medicine
+603516,72132,Ct lumbar spine w/dye,Radiology
+603537,3044F,Hg a1c level lt 7.0%,CPT Cat II Codes
+603558,99239,Hospital discharge day,Hospital
+603579,51702,Insert temp bladder cath,Surgery
+603600,71045,X-ray exam chest 1 view,Radiology
+603621,43239,Egd biopsy single/multiple,Surgery
+603642,83036,Glycosylated hemoglobin test,PathLab
+603663,37766,Phleb veins - extrem 20+,Surgery
+603684,95819,Eeg awake and asleep,Medicine
+603705,93272,Ecg/review interpret only,Medicine
+603726,70450,Ct head/brain w/o dye,Radiology
+603747,43235,Egd diagnostic brush wash,Surgery
+603768,90633,Hepa vacc ped/adol 2 dose im,Medicine
+603789,95117,Immunotherapy injections,Medicine
+603810,81025,Urine pregnancy test,PathLab
+603831,99204,Office/outpatient visit new,Office
+603852,1123F,Acp discuss/dscn mkr docd,CPT Cat II Codes
+603873,90686,Iiv4 vacc no prsv 0.5 ml im,Medicine
+603894,93288,Interrog evl pm/ldls pm ip,Medicine
+603915,99382,Init pm e/m new pat 1-4 yrs,Office
+603936,93010,Electrocardiogram report,Medicine
+603957,99284,Emergency dept visit,Hospital
+603978,99395,Prev visit est age 18-39,Office
+603999,45560,Repair of rectocele,Surgery
+604020,73130,X-ray exam of hand,Radiology
+604041,3045F,Hg a1c level 7.0-9.0%,CPT Cat II Codes
+604062,94760,Measure blood oxygen level,Medicine
+604083,97155,Adapt behavior tx phys/qhp,Medicine
+604104,76981,Use parenchyma,Radiology
+604125,33967,Insert i-aort percut device,Surgery
+604167,73565,X-ray exam of knees,Radiology
+604188,G8511,"Scr dep pos, no plan doc rng",HCPCS Level II Codes
+604209,73590,X-ray exam of lower leg,Radiology
+604230,99215,Office/outpatient visit est,Office
+604251,99222,Initial hospital care,Hospital
+604272,G8482,Flu immunize order/admin,HCPCS Level II Codes
+604293,37765,Stab phleb veins xtr 10-20,Surgery
+604314,93227,Ecg monit/reprt up to 48 hrs,Medicine
+604335,76981,Use parenchyma,Radiology
+604356,92133,Cmptr ophth img optic nerve,Medicine
+604377,93280,Pm device progr eval dual,Medicine
+604398,99213,Office/outpatient visit est,Office
+604419,74740,X-ray female genital tract,Radiology
+604440,93000,Electrocardiogram complete,Medicine
+604461,11045,Deb subq tissue add-on,Surgery
+604482,98926,Osteopath manj 3-4 regions,Medicine
+604503,99395,Prev visit est age 18-39,Office
+604524,J3301,Triamcinolone acet inj nos,HCPCS Level II Codes
+604545,10030,Guide cathet fluid drainage,Misc
+604566,96131,Psycl tst eval phys/qhp ea,Misc
+604587,99214,Office/outpatient visit est,Office
+604608,74174,Ct angio abd&pelv w/o&w/dye,Radiology
+604629,99217,Observation care discharge,Hospital
+604650,73590,X-ray exam of lower leg,Radiology
+604671,77072,X-rays for bone age,Radiology
+604692,36000,Place needle in vein,Surgery
+604713,J2785,Regadenoson injection,HCPCS Level II Codes
+604734,73502,X-ray exam hip uni 2-3 views,Radiology
+604755,70552,Mri brain stem w/dye,Radiology
+604776,99222,Initial hospital care,Hospital
+604797,G0279,"Tomosynthesis, mammo",HCPCS Level II Codes
+604818,77063,Breast tomosynthesis bi,Misc
+604839,73030,X-ray exam of shoulder,Radiology
+604860,33970,Aortic circulation assist,Surgery
+604881,78278,Acute gi blood loss imaging,Radiology
+604902,99396,Prev visit est age 40-64,Office
+604923,93000,Electrocardiogram complete,Medicine
+604944,19001,Drain breast lesion add-on,Surgery
+604965,J3301,Triamcinolone acet inj nos,HCPCS Level II Codes
+604986,93306,Tte w/doppler complete,Medicine
+605007,76536,Us exam of head and neck,Radiology
+605028,71260,Ct thorax w/dye,Radiology
+605049,33430,Replacement of mitral valve,Surgery
+605070,72170,X-ray exam of pelvis,Radiology
+605091,99391,Per pm reeval est pat infant,Office
+605112,78451,Ht muscle image spect sing,Radiology
+605133,74241,X-ray upper gi delay w/kub,Radiology
+605154,36561,Insert tunneled cv cath,Surgery
+605175,98927,Osteopath manj 5-6 regions,Medicine
+605196,30802,Ablate inf turbinate submuc,Surgery
+605217,33405,Replacement aortic valve opn,Surgery
+605259,57150,Treat vagina infection,Surgery
+605280,45378,Diagnostic colonoscopy,Surgery
+605301,99239,Hospital discharge day,Hospital
+605322,99285,Emergency dept visit,Hospital
+605343,72220,X-ray exam sacrum tailbone,Radiology
+605364,2028F,Foot exam performed,CPT Cat II Codes
+605385,Q0138,"Ferumoxytol, non-esrd",HCPCS Level II Codes
+605406,93351,Stress tte complete,Medicine
+605427,95957,Eeg digital analysis,Medicine
+605448,73590,X-ray exam of lower leg,Radiology
+605469,73700,Ct lower extremity w/o dye,Radiology
+605490,73140,X-ray exam of finger(s),Radiology
+605511,G0328,Fecal blood scrn immunoassay,HCPCS Level II Codes
+605532,99282,Emergency dept visit,Hospital
+605553,99384,Prev visit new age 12-17,Office
+605574,99024,Postop follow-up visit,Medicine
+605595,93298,Rem interrog dev eval scrms,Medicine
+605616,71101,X-ray exam unilat ribs/chest,Radiology
+605637,11305,Shave skin lesion 0.5 cm/<,Surgery
+605658,90935,Hemodialysis one evaluation,Medicine
+605679,93018,Cardiovascular stress test,Medicine
+605700,34713,Perq access & clsr fem art,Surgery
+605721,62304,Myelography lumbar injection,Surgery
+605742,99283,Emergency dept visit,Hospital
+605763,77013,Ct guide for tissue ablation,Radiology
+605784,73120,X-ray exam of hand,Radiology
+605805,97110,Therapeutic exercises,Medicine
+605826,75741,Artery x-rays lung,Radiology
+605847,97157,Mult fam adapt bhv tx gdn,Medicine
+605868,75565,Card mri veloc flow mapping,Radiology
+605889,69436,Create eardrum opening,Surgery
+605910,93882,Extracranial uni/ltd study,Medicine
+605931,29075,Application of forearm cast,Surgery
+605994,31525,Dx laryngoscopy excl nb,Surgery
+606015,93880,Extracranial bilat study,Medicine
+606036,50593,Perc cryo ablate renal tum,Surgery
+606057,29880,Knee arthroscopy/surgery,Surgery
+606078,99215,Office/outpatient visit est,Office
+606099,63020,Neck spine disk surgery,Surgery
+606120,27615,Resect leg/ankle tum < 5 cm,Surgery
+606141,94727,Pulm function test by gas,Medicine
+606162,17111,Destruct lesion 15 or more,Surgery
+606183,36014,Place catheter in artery,Surgery
+606204,27310,Exploration of knee joint,Surgery
+606225,49560,Rpr ventral hern init reduc,Surgery
+606246,95953,Eeg monitoring/computer,Medicine
+606267,78320,Bone imaging (3d),Radiology
+606288,37236,Open/perq place stent 1st,Surgery
+606309,74241,X-ray upper gi delay w/kub,Radiology
+606330,74247,Contrst x-ray uppr gi tract,Radiology
+606351,95951,Eeg monitoring/videorecord,Medicine
+606372,95953,Eeg monitoring/computer,Medicine
+606393,74249,Contrst x-ray uppr gi tract,Radiology
+606414,61782,Scan proc cranial extra,Surgery
+606435,65435,Curette/treat cornea,Surgery
+606456,76514,Echo exam of eye thickness,Radiology
+606477,94760,Measure blood oxygen level,Medicine
+606498,88350,Immunofluor antb addl stain,PathLab
+606519,94760,Measure blood oxygen level,Medicine
+606540,88341,Immunohisto antb addl slide,PathLab
+606561,92960,Cardioversion electric ext,Medicine
+606582,G0101,Ca screen;pelvic/breast exam,HCPCS Level II Codes
+606603,67414,Explr/decompress eye socket,Surgery
+606624,36558,Insert tunneled cv cath,Surgery
+606645,3045F,Hg a1c level 7.0-9.0%,CPT Cat II Codes
