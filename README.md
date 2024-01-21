@@ -1,4 +1,4 @@
-# PowerBI Dashboards
+# PowerBI Decision Analytics Hub
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow)](https://app.powerbi.com/groups/me/lineage?experience=power-bi)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/virajbhutada/PowerBI-Dashboards/blob/main/LICENSE)
