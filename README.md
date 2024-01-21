@@ -38,13 +38,13 @@ Thank you for considering contributing to this repository and exploring the Powe
 
 ## Usage Permissions
 
-- **Open for Exploration:** The dashboards in this repository are open for exploration and utilization. Please review the [MIT License]([LICENSE](https://github.com/virajbhutada/PowerBI-Dashboards/blob/main/LICENSE)) for details on permissions.
+- **Open for Exploration:** The dashboards in this repository are open for exploration and utilization. Please review the [MIT License]([LICENSE](https://github.com/virajbhutada/PowerBI-Decision-Analytics/blob/main/LICENSE)) for details on permissions.
 
 ---
 
 ## Report Issues
 
-If you encounter any issues or have suggestions, we encourage you to open an issue on the [Issue Tracker](https://github.com/virajbhutada/PowerBI_Dashboards/issues). Your feedback is invaluable and contributes to the ongoing improvement of this project.
+If you encounter any issues or have suggestions, we encourage you to open an issue on the [Issue Tracker](https://github.com/virajbhutada/PowerBI_Decision-Analytics/issues). Your feedback is invaluable and contributes to the ongoing improvement of this project.
 
 ---
 
