@@ -1,0 +1,4 @@
+dimTransactionPK,TransactionType,Transaction,AdjustmentReason
+48429,Adjustment,Deceased Patient - no payment,Bad Debt
+55042,Adjustment,Bankruptcy,Bad Debt
+55711,Adjustment,account settled in full (account) w/o,Bad Debt
