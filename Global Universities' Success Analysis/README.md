@@ -1,12 +1,12 @@
 # Global Analysis of Universities' Success 
 
-
-  Comprehensive global analysis of university success utilizing **Power BI, Excel, and SQL** integrating data from diverse ranking systems and criteria.
+Comprehensive global analysis of university success utilizing **Power BI, Excel, and SQL** integrating data from diverse ranking systems and criteria.
 
 
 ---
 
-![Screenshot 2023-12-28 223612](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/43533821-033c-4004-b224-8628de11938d)
+![Screenshot 2024-04-26 173935](https://github.com/virajbhutada/PowerBI-Projects/assets/143819712/7db39916-0718-4ac3-a876-427efe3024dd)
+
 
 ## How to Access Project Materials
 
@@ -38,7 +38,7 @@ This project holds significant implications for gaining insights into and enhanc
 
 ### Mutually Exclusive, Collectively Exhaustive (MECE) Approach
 
-![MECE Diagram](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/fc7ce3eb-9c1a-4e6c-94cc-35cfab217a74)
+![mece](https://github.com/virajbhutada/PowerBI-Projects/assets/143819712/0dea950f-d01b-4dc8-8714-4c542f43753e)
 
 *The MECE diagram outlines the structured approach applied in dissecting and evaluating the dataset. This method ensures that every component is distinct (Mutually Exclusive) while covering all possibilities (Collectively Exhaustive). It serves as the foundation for uncovering valuable insights and patterns across various dimensions, contributing to a comprehensive understanding of the data.*
 
@@ -54,7 +54,7 @@ This project holds significant implications for gaining insights into and enhanc
 
 ### Entity-Relationship (ER) Diagram
 
-<img src="https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/8fb664bb-beaa-45c1-8e46-125497ef8c7f" alt="ER Diagram" width="1200">
+<img src="https://github.com/virajbhutada/PowerBI-Projects/assets/143819712/75ba0c75-490e-4733-bd5d-4574085c6fe9" alt="ER Diagram" width="1200">
 
 *The Entity-Relationship (ER) Diagram illustrates interconnected data entities, providing a visual guide to relationships between countries, universities, ranking systems, criteria, and their dynamic interactions in global higher education.*
 
@@ -129,28 +129,30 @@ Developed four detailed Power BI dashboards to provide a clear and thorough visu
 ### **1. Country Analysis Dashboard:**
    - Visualizes ranking trends and metrics based on countries.
      
-   ![Country Analysis Dashboard](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/3bd6aaf0-d62d-42d9-a335-475caaff4278)
+  ![country_analysis](https://github.com/virajbhutada/PowerBI-Projects/assets/143819712/874ec900-3f7f-4504-bb34-02288e6f754e)
 
 ---
 
 ### **2. University Analysis Dashboard:**
    - Offers insights into individual university performance and metrics.
      
-   ![University Analysis Dashboard](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/66e72ca1-fcf0-40ac-a768-c2d2270236e7)
+![university_analysis](https://github.com/virajbhutada/PowerBI-Projects/assets/143819712/0dc87181-7a65-4609-a81b-3b0b5f732ddd)
+
 
 ---
 
 ### **3. Ranking System Analysis Dashboard:**
    - Compares and contrasts rankings across different systems.
      
-   ![Ranking System Analysis Dashboard](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/9a11cd07-6bb3-4646-b181-9ffd5acf7820)
+![ranking_analysis](https://github.com/virajbhutada/PowerBI-Projects/assets/143819712/62ad3be3-720c-41a6-bbaa-27b7477ecc67)
 
 ---
 
 ### **4. Yearly Analysis Dashboard:**
    - Examines temporal changes in university metrics and rankings.
      
-   ![Yearly Analysis Dashboard](https://github.com/virajbhutada/PowerBI_Capstone_Project_University_Success_Analysis/assets/143819712/1fa6286c-6b1b-4abc-ae97-c79ce7b59f05)
+![yearly_analysis](https://github.com/virajbhutada/PowerBI-Projects/assets/143819712/a0f3a95b-f873-467c-93fb-392664ed1705)
+
 
 ---
 
